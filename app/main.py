@@ -20,7 +20,6 @@ def main():
 
     # Extract and save data
     try:
-        data = scraper.extract_data(parsed_content)
         database.save_data(db_connection, data, config.db_table)
     except Exception as e:
         print(f"Error saving data to database: {e}")
