@@ -22,11 +22,39 @@ def extract_restaurant(parsed_content):
     """
     # Extract title
     name_en = parsed_content.find("a", class_="rd-header__rst-name-main").get_text()
+    name_jp = parsed_content.find("small", class_="rd-header__rst-name-ja").get_text()
     category = parsed_content.find("span", property="v:category").get_text()
-    print("Restaurant Name:", name_en)
-    print("Category:", category)
+    r_id = parsed_content.find("a", class_="global-headbar__nav-target").get_attribute_list("href")[0].split('/')[-2]
+    budget = parsed_content.find_all("b", class_="c-rating__val")[0].get_text()
+    rating = parsed_content.find_all("b", class_="c-rating__val")[2].get_text()
+    no_review = parsed_content.find("a", class_="gly-b-review").get_text().split('\n')[1]
+    address = parsed_content.find("p", class_="rd-detail-info__rst-address").get_text().strip()
+    url = parsed_content.find("a", class_="global-headbar__nav-target").get_attribute_list("href")[0]
+    city = parsed_content.find("a", class_="global-headbar__nav-target").get_attribute_list("href")[0].split('/')[4].capitalize()
 
-    # Example: Extracting all article headlines
-    #headlines = parsed_content.find_all("h2")
-    #article_data = [headline.text.strip() for headline in headlines]
-    return None
+    restaurant = {
+        'name': name_en,
+        'name_jp': name_jp,
+        'category': category,
+        'r_id': r_id,
+        'budget': budget,
+        'rating': rating,
+        'no_review': no_review,
+        'address': address,
+        'url': url,
+        'city': city
+    }
+    return restaurant
+
+def extract_list(parsed_content):
+    """Extract restaurant info from one site.
+    """
+
+    list = []
+
+    for link in parsed_content.find_all("a", class_='list-rst__name', href=True):
+        full_url = requests.compat.urljoin(url, link["href"])
+    # Extract title
+    name_en = parsed_content.find("a", class_="rd-header__rst-name-main").get_text()
+
+    return restaurant
