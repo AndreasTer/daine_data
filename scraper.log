@@ -1,0 +1,1382 @@
+2024-12-08 00:35:25 | INFO     | Database initialized successfully
+2024-12-08 00:35:26 | INFO     | Scraper initialized successfully
+2024-12-08 00:35:26 | INFO     | Starting scrape for osaka, 1 pages
+2024-12-08 00:35:26 | INFO     | Starting scrape for osaka, 1 pages
+2024-12-08 00:35:41 | INFO     | Processed 0 restaurants from page 1
+2024-12-08 00:35:43 | INFO     | Scraping completed. Total restaurants in database: 0
+2024-12-08 00:35:43 | INFO     | Scraper closed
+2024-12-08 00:39:41 | INFO     | Database initialized successfully
+2024-12-08 00:39:41 | INFO     | Scraper initialized successfully
+2024-12-08 00:39:41 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:39:41 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:39:48 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 49 人 '
+2024-12-08 00:39:50 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 11 人 '
+2024-12-08 00:39:50 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 55 人 '
+2024-12-08 00:39:50 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 136 人 '
+2024-12-08 00:39:50 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 389 人 '
+2024-12-08 00:39:50 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 493 人 '
+2024-12-08 00:39:52 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 87 人 '
+2024-12-08 00:39:52 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 64 人 '
+2024-12-08 00:39:52 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 15 人 '
+2024-12-08 00:39:52 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 75 人 '
+2024-12-08 00:39:52 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 107 人 '
+2024-12-08 00:39:54 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 74 人 '
+2024-12-08 00:39:54 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 5 人 '
+2024-12-08 00:39:54 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 4 人 '
+2024-12-08 00:39:54 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 451 人 '
+2024-12-08 00:39:54 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 18 人 '
+2024-12-08 00:39:56 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 127 人 '
+2024-12-08 00:39:56 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 37 人 '
+2024-12-08 00:39:56 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 23 人 '
+2024-12-08 00:39:57 | ERROR    | Error parsing restaurant page: invalid literal for int() with base 10: '\n口コミ 168 人 '
+2024-12-08 00:39:57 | INFO     | Processed 0 restaurants from page 1
+2024-12-08 00:39:58 | INFO     | Scraping completed. Total restaurants in database: 0
+2024-12-08 00:39:58 | INFO     | Scraper closed
+2024-12-08 00:40:42 | INFO     | Database initialized successfully
+2024-12-08 00:40:43 | INFO     | Scraper initialized successfully
+2024-12-08 00:40:43 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:40:43 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:40:46 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:40:48 | DEBUG    | Successfully parsed restaurant: 大衆食堂 てんぐ大ホール 上野駅前店
+2024-12-08 00:40:49 | DEBUG    | Successfully parsed restaurant: 寿司処きんのだし 秋葉原店
+2024-12-08 00:40:49 | DEBUG    | Successfully parsed restaurant: ZEN ROOM
+2024-12-08 00:40:49 | DEBUG    | Successfully parsed restaurant: 赤坂和食 紬
+2024-12-08 00:40:50 | DEBUG    | Successfully parsed restaurant: 青山一品 中野坂上店
+2024-12-08 00:40:50 | DEBUG    | Successfully parsed restaurant: CE LA VI RESTAURANT & SKY BAR
+2024-12-08 00:40:51 | DEBUG    | Successfully parsed restaurant: サンガム 神保町店
+2024-12-08 00:40:51 | DEBUG    | Successfully parsed restaurant: 荻窪いちべえ
+2024-12-08 00:40:51 | DEBUG    | Successfully parsed restaurant: 全席個室 じぶんどき 秋葉原駅前店
+2024-12-08 00:40:52 | DEBUG    | Successfully parsed restaurant: 個室居酒屋 北の大地
+2024-12-08 00:40:52 | DEBUG    | Successfully parsed restaurant: 元氣七輪焼肉 牛繁 国分寺店
+2024-12-08 00:40:53 | DEBUG    | Successfully parsed restaurant: 権鹿 はなれ
+2024-12-08 00:40:53 | DEBUG    | Successfully parsed restaurant: ナギサテイ
+2024-12-08 00:40:54 | DEBUG    | Successfully parsed restaurant: やきとん 元気
+2024-12-08 00:40:54 | DEBUG    | Successfully parsed restaurant: 大衆居酒屋とりいちず 天王洲アイル店
+2024-12-08 00:40:54 | DEBUG    | Successfully parsed restaurant: うにLABO丸集 築地店
+2024-12-08 00:40:55 | DEBUG    | Successfully parsed restaurant: 釣宿酒場マヅメ 日本橋店
+2024-12-08 00:40:55 | DEBUG    | Successfully parsed restaurant: 乃木坂 長寿庵
+2024-12-08 00:40:56 | DEBUG    | Successfully parsed restaurant: 北新地 鳥屋 市ケ谷店
+2024-12-08 00:40:56 | DEBUG    | Successfully parsed restaurant: 隠れ家個室ダイニング DOMO DOMO 池袋東口店
+2024-12-08 00:40:56 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 00:40:57 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 00:40:57 | INFO     | Scraper closed
+2024-12-08 00:48:45 | INFO     | Database initialized successfully
+2024-12-08 00:48:45 | INFO     | Scraper initialized successfully
+2024-12-08 00:48:45 | INFO     | Starting scrape for tokyo, 2 pages
+2024-12-08 00:48:45 | INFO     | Starting scrape for tokyo, 2 pages
+2024-12-08 00:48:48 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:48:50 | DEBUG    | Successfully parsed restaurant: Yoroniku (よろにく)
+2024-12-08 00:48:51 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Sen (渋谷 すし仙)
+2024-12-08 00:48:51 | DEBUG    | Successfully parsed restaurant: Seafood Buffet Dining Ginza Happo (海鮮ブッフェダイニング 銀座八芳)
+2024-12-08 00:48:51 | DEBUG    | Successfully parsed restaurant: Sushi Dokoro Isseki Sanchou (鮨処 一石三鳥)
+2024-12-08 00:48:51 | DEBUG    | Successfully parsed restaurant: Yakiniku Inoue Ginza Ten (焼肉いのうえ)
+2024-12-08 00:48:52 | DEBUG    | Successfully parsed restaurant: Yakiniku Motoyama Shinjuku Ten (焼肉もとやま)
+2024-12-08 00:48:53 | DEBUG    | Successfully parsed restaurant: Yakiuo Ishikawa (焼うお いし川)
+2024-12-08 00:48:53 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Namikidori Ten (焼肉うしごろ)
+2024-12-08 00:48:53 | DEBUG    | Successfully parsed restaurant: Ginza Umi (銀座 海味)
+2024-12-08 00:48:53 | DEBUG    | Successfully parsed restaurant: Sushi Kotobuki (すし寿)
+2024-12-08 00:48:54 | DEBUG    | Successfully parsed restaurant: Ginza Shabuki Kuroge Wagyu Shabushabu Sukiyaki Senmon Ten Ginza Hon Ten (銀座しゃぶ輝 黒毛和牛しゃぶしゃぶ・すき焼き専門店)
+2024-12-08 00:48:55 | DEBUG    | Successfully parsed restaurant: Ginza Yokota (銀座 よこ田)
+2024-12-08 00:48:55 | DEBUG    | Successfully parsed restaurant: Sushi Hanaoka Shibuya (鮨 花おか)
+2024-12-08 00:48:55 | DEBUG    | Successfully parsed restaurant: Yurakucho Kakida (有楽町かきだ)
+2024-12-08 00:48:56 | DEBUG    | Successfully parsed restaurant: KIWAMI (THE SUSHI GINZA 極)
+2024-12-08 00:48:57 | DEBUG    | Successfully parsed restaurant: Ginza Chikamitsu (銀座 ちかみつ)
+2024-12-08 00:48:57 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Omotesando Ten (焼肉うしごろ)
+2024-12-08 00:48:57 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Kenshin (恵比寿 鮨 謙心)
+2024-12-08 00:48:57 | DEBUG    | Successfully parsed restaurant: None (None)
+2024-12-08 00:48:58 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Matsumoto (渋谷 鮨 まつもと)
+2024-12-08 00:48:58 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 00:49:01 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:49:03 | DEBUG    | Successfully parsed restaurant: Teppanyaki Steak Kitanosaka (鉄板焼 ステーキ 北野坂)
+2024-12-08 00:49:04 | DEBUG    | Successfully parsed restaurant: Ajuta (あじゅう田)
+2024-12-08 00:49:04 | DEBUG    | Successfully parsed restaurant: Beef Kitchen Ebisu Ten (ビーフキッチン)
+2024-12-08 00:49:04 | DEBUG    | Successfully parsed restaurant: Shinjuku Sushi Fukuju (新宿 鮨 ふくじゅ)
+2024-12-08 00:49:04 | DEBUG    | Successfully parsed restaurant: Wagyu no Kamisama (和牛の神様)
+2024-12-08 00:49:05 | DEBUG    | Successfully parsed restaurant: Gensen Yakitori Isseki Sanchou Hon Ten (厳選焼鳥 一石三鳥)
+2024-12-08 00:49:06 | DEBUG    | Successfully parsed restaurant: T (T)
+2024-12-08 00:49:06 | DEBUG    | Successfully parsed restaurant: Sushi Zai (鮨 在)
+2024-12-08 00:49:06 | DEBUG    | Successfully parsed restaurant: Ikina Sushi Dokoro Abe Aoyama Ten (意気な寿し処阿部)
+2024-12-08 00:49:06 | DEBUG    | Successfully parsed restaurant: Wagyu Yakiniku Yakuniku Shinjuku Higashiguchi Ten (和牛焼肉やくにく)
+2024-12-08 00:49:07 | DEBUG    | Successfully parsed restaurant: Gyuan (牛庵)
+2024-12-08 00:49:07 | DEBUG    | Successfully parsed restaurant: Tempura Azabu Yokota Shinjuku Bettei (天冨良 麻布よこ田)
+2024-12-08 00:49:08 | DEBUG    | Successfully parsed restaurant: Sushi Rizaki Aoyama (鮨利﨑)
+2024-12-08 00:49:08 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Ten (焼肉うしごろ)
+2024-12-08 00:49:08 | DEBUG    | Successfully parsed restaurant: Shabu Ki Tokyu Kabukicho Tower (しゃぶ輝 東急歌舞伎町タワー)
+2024-12-08 00:49:09 | DEBUG    | Successfully parsed restaurant: Edomae Sushi Sushi Fuku (江戸前寿司 すし福)
+2024-12-08 00:49:09 | DEBUG    | Successfully parsed restaurant: Tempura Yokota (天冨良 よこ田)
+2024-12-08 00:49:09 | DEBUG    | Successfully parsed restaurant: Ginza Yakiniku Salon de AgingBeef (銀座焼肉 Salon de AgingBeef)
+2024-12-08 00:49:10 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Fujimasa (恵比寿 鮨 ふじまさ)
+2024-12-08 00:49:10 | DEBUG    | Successfully parsed restaurant: Toranomon Yakitori Kuniyoshi (虎ノ門 焼鳥國よし)
+2024-12-08 00:49:10 | INFO     | Processed 20 restaurants from page 2
+2024-12-08 00:49:12 | INFO     | Scraping completed. Total restaurants in database: 60
+2024-12-08 00:49:12 | INFO     | Scraper closed
+2024-12-08 00:54:18 | INFO     | Database initialized successfully
+2024-12-08 00:54:19 | INFO     | Scraper initialized successfully
+2024-12-08 00:54:19 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:54:19 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:54:22 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:54:23 | INFO     | Scraping completed. Total restaurants in database: 60
+2024-12-08 00:54:23 | INFO     | Scraper closed
+2024-12-08 00:55:10 | INFO     | Database initialized successfully
+2024-12-08 00:55:10 | INFO     | Scraper initialized successfully
+2024-12-08 00:55:10 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:55:10 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:55:13 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:55:15 | DEBUG    | Successfully parsed restaurant: Yoroniku (よろにく)
+2024-12-08 00:55:15 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:15 | DEBUG    | Category: Yakiniku (BBQ Beef), Horumon (BBQ Offel)
+2024-12-08 00:55:16 | DEBUG    | Successfully parsed restaurant: Seafood Buffet Dining Ginza Happo (海鮮ブッフェダイニング 銀座八芳)
+2024-12-08 00:55:16 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:16 | DEBUG    | Category: Yakiniku (BBQ Beef), Sushi, Izakaya (Tavern)
+2024-12-08 00:55:17 | DEBUG    | Successfully parsed restaurant: Yakiniku Inoue Ginza Ten (焼肉いのうえ)
+2024-12-08 00:55:17 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:17 | DEBUG    | Category: Yakiniku (BBQ Beef), Horumon (BBQ Offel), Innovative
+2024-12-08 00:55:17 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Sen (渋谷 すし仙)
+2024-12-08 00:55:17 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:17 | DEBUG    | Category: Sushi, Seafood, Izakaya (Tavern)
+2024-12-08 00:55:17 | DEBUG    | Successfully parsed restaurant: Sushi Dokoro Isseki Sanchou (鮨処 一石三鳥)
+2024-12-08 00:55:17 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:17 | DEBUG    | Category: Sushi, Seafood
+2024-12-08 00:55:17 | DEBUG    | Successfully parsed restaurant: Yakiniku Motoyama Shinjuku Ten (焼肉もとやま)
+2024-12-08 00:55:17 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:17 | DEBUG    | Category: Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean
+2024-12-08 00:55:18 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Namikidori Ten (焼肉うしごろ)
+2024-12-08 00:55:18 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:18 | DEBUG    | Category: Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)
+2024-12-08 00:55:18 | DEBUG    | Successfully parsed restaurant: Yakiuo Ishikawa (焼うお いし川)
+2024-12-08 00:55:18 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:18 | DEBUG    | Category: Seafood, Yakiniku (BBQ Beef), Sushi
+2024-12-08 00:55:18 | DEBUG    | Successfully parsed restaurant: Ginza Umi (銀座 海味)
+2024-12-08 00:55:18 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:18 | DEBUG    | Category: Sushi, Japanese Cuisine, Seafood
+2024-12-08 00:55:18 | DEBUG    | Successfully parsed restaurant: Sushi Kotobuki (すし寿)
+2024-12-08 00:55:18 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:18 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:19 | DEBUG    | Successfully parsed restaurant: Ginza Shabuki Kuroge Wagyu Shabushabu Sukiyaki Senmon Ten Ginza Hon Ten (銀座しゃぶ輝 黒毛和牛しゃぶしゃぶ・すき焼き専門店)
+2024-12-08 00:55:19 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:19 | DEBUG    | Category: Shabu shabu (Japanese hotpot), Sukiyaki, Hot Pot
+2024-12-08 00:55:20 | DEBUG    | Successfully parsed restaurant: Ginza Yokota (銀座 よこ田)
+2024-12-08 00:55:20 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:20 | DEBUG    | Category: Japanese Cuisine, Tempura, Sushi
+2024-12-08 00:55:20 | DEBUG    | Successfully parsed restaurant: Sushi Hanaoka Shibuya (鮨 花おか)
+2024-12-08 00:55:20 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:20 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:20 | DEBUG    | Successfully parsed restaurant: Sushi Noboru (鮨 昇)
+2024-12-08 00:55:20 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:20 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:20 | DEBUG    | Successfully parsed restaurant: Yurakucho Kakida (有楽町かきだ)
+2024-12-08 00:55:20 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:20 | DEBUG    | Category: Sushi
+2024-12-08 00:55:21 | DEBUG    | Successfully parsed restaurant: KIWAMI (THE SUSHI GINZA 極)
+2024-12-08 00:55:21 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:21 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:22 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Omotesando Ten (焼肉うしごろ)
+2024-12-08 00:55:22 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:22 | DEBUG    | Category: Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)
+2024-12-08 00:55:22 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Kenshin (恵比寿 鮨 謙心)
+2024-12-08 00:55:22 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:22 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:22 | DEBUG    | Successfully parsed restaurant: Ginza Chikamitsu (銀座 ちかみつ)
+2024-12-08 00:55:22 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:22 | DEBUG    | Category: Yakiniku (BBQ Beef), Horumon (BBQ Offel), Beef dishes
+2024-12-08 00:55:22 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Matsumoto (渋谷 鮨 まつもと)
+2024-12-08 00:55:22 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:55:22 | DEBUG    | Category: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:55:22 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 00:55:23 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 00:55:23 | INFO     | Scraper closed
+2024-12-08 00:59:50 | INFO     | Database initialized successfully
+2024-12-08 00:59:50 | INFO     | Scraper initialized successfully
+2024-12-08 00:59:50 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:59:50 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 00:59:54 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 00:59:55 | DEBUG    | Successfully parsed restaurant: Yoroniku (よろにく)
+2024-12-08 00:59:55 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:55 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel
+2024-12-08 00:59:56 | DEBUG    | Successfully parsed restaurant: Seafood Buffet Dining Ginza Happo (海鮮ブッフェダイニング 銀座八芳)
+2024-12-08 00:59:56 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:56 | DEBUG    | Categories: Yakiniku BBQ Beef, Sushi, Izakaya Tavern
+2024-12-08 00:59:57 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Sen (渋谷 すし仙)
+2024-12-08 00:59:57 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:57 | DEBUG    | Categories: Sushi, Seafood, Izakaya Tavern
+2024-12-08 00:59:57 | DEBUG    | Successfully parsed restaurant: Yakiniku Inoue Ginza Ten (焼肉いのうえ)
+2024-12-08 00:59:57 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:57 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Innovative
+2024-12-08 00:59:57 | DEBUG    | Successfully parsed restaurant: Sushi Dokoro Isseki Sanchou (鮨処 一石三鳥)
+2024-12-08 00:59:57 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:57 | DEBUG    | Categories: Sushi, Seafood
+2024-12-08 00:59:57 | DEBUG    | Successfully parsed restaurant: Yakiniku Motoyama Shinjuku Ten (焼肉もとやま)
+2024-12-08 00:59:57 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:57 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Korean
+2024-12-08 00:59:58 | DEBUG    | Successfully parsed restaurant: Yakiuo Ishikawa (焼うお いし川)
+2024-12-08 00:59:58 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:58 | DEBUG    | Categories: Seafood, Yakiniku BBQ Beef, Sushi
+2024-12-08 00:59:58 | DEBUG    | Successfully parsed restaurant: Ginza Umi (銀座 海味)
+2024-12-08 00:59:58 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:58 | DEBUG    | Categories: Sushi, Japanese Cuisine, Seafood
+2024-12-08 00:59:58 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Namikidori Ten (焼肉うしごろ)
+2024-12-08 00:59:58 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:58 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 00:59:59 | DEBUG    | Successfully parsed restaurant: Sushi Kotobuki (すし寿)
+2024-12-08 00:59:59 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:59 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 00:59:59 | DEBUG    | Successfully parsed restaurant: Ginza Shabuki Kuroge Wagyu Shabushabu Sukiyaki Senmon Ten Ginza Hon Ten (銀座しゃぶ輝 黒毛和牛しゃぶしゃぶ・すき焼き専門店)
+2024-12-08 00:59:59 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 00:59:59 | DEBUG    | Categories: Shabu shabu Japanese hotpot, Sukiyaki, Hot Pot
+2024-12-08 01:00:00 | DEBUG    | Successfully parsed restaurant: Sushi Noboru (鮨 昇)
+2024-12-08 01:00:00 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:00 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:00:00 | DEBUG    | Successfully parsed restaurant: Sushi Hanaoka Shibuya (鮨 花おか)
+2024-12-08 01:00:00 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:00 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:00:00 | DEBUG    | Successfully parsed restaurant: Ginza Yokota (銀座 よこ田)
+2024-12-08 01:00:00 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:00 | DEBUG    | Categories: Japanese Cuisine, Tempura, Sushi
+2024-12-08 01:00:01 | DEBUG    | Successfully parsed restaurant: Yurakucho Kakida (有楽町かきだ)
+2024-12-08 01:00:01 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:01 | DEBUG    | Categories: Sushi
+2024-12-08 01:00:01 | DEBUG    | Successfully parsed restaurant: KIWAMI (THE SUSHI GINZA 極)
+2024-12-08 01:00:01 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:01 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:00:02 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Omotesando Ten (焼肉うしごろ)
+2024-12-08 01:00:02 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:02 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 01:00:02 | DEBUG    | Successfully parsed restaurant: Ginza Chikamitsu (銀座 ちかみつ)
+2024-12-08 01:00:02 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:02 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Beef dishes
+2024-12-08 01:00:02 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Kenshin (恵比寿 鮨 謙心)
+2024-12-08 01:00:02 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:02 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:00:02 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Matsumoto (渋谷 鮨 まつもと)
+2024-12-08 01:00:02 | DEBUG    | Price ranges - Lunch: None, Dinner: None
+2024-12-08 01:00:02 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:00:02 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:00:04 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:00:04 | INFO     | Scraper closed
+2024-12-08 01:02:28 | INFO     | Database initialized successfully
+2024-12-08 01:02:28 | INFO     | Scraper initialized successfully
+2024-12-08 01:02:28 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:02:28 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:02:32 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:02:34 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:02:34 | INFO     | Scraper closed
+2024-12-08 01:05:39 | INFO     | Database initialized successfully
+2024-12-08 01:05:39 | INFO     | Scraper initialized successfully
+2024-12-08 01:05:39 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:05:39 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:05:43 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:05:44 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:05:44 | INFO     | Scraper closed
+2024-12-08 01:05:59 | INFO     | Database initialized successfully
+2024-12-08 01:06:00 | INFO     | Scraper initialized successfully
+2024-12-08 01:06:00 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:06:00 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:06:03 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:06:05 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:05 | DEBUG    | Successfully parsed restaurant: Yoroniku (よろにく)
+2024-12-08 01:06:05 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:05 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel
+2024-12-08 01:06:06 | DEBUG    | Found Lunch price: JPY 8,000～JPY 9,999
+2024-12-08 01:06:06 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:06:06 | DEBUG    | Successfully parsed restaurant: Seafood Buffet Dining Ginza Happo (海鮮ブッフェダイニング 銀座八芳)
+2024-12-08 01:06:06 | DEBUG    | Price ranges - Lunch: JPY 8,000～JPY 9,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:06:06 | DEBUG    | Categories: Yakiniku BBQ Beef, Sushi, Izakaya Tavern
+2024-12-08 01:06:06 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:06:06 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:06:06 | DEBUG    | Successfully parsed restaurant: Yakiniku Inoue Ginza Ten (焼肉いのうえ)
+2024-12-08 01:06:06 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:06:06 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Innovative
+2024-12-08 01:06:06 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:06:06 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:06:06 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Sen (渋谷 すし仙)
+2024-12-08 01:06:06 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:06:06 | DEBUG    | Categories: Sushi, Seafood, Izakaya Tavern
+2024-12-08 01:06:06 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:06 | DEBUG    | Successfully parsed restaurant: Sushi Dokoro Isseki Sanchou (鮨処 一石三鳥)
+2024-12-08 01:06:06 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:06 | DEBUG    | Categories: Sushi, Seafood
+2024-12-08 01:06:06 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:06:06 | DEBUG    | Successfully parsed restaurant: Yakiniku Motoyama Shinjuku Ten (焼肉もとやま)
+2024-12-08 01:06:06 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:06:06 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Korean
+2024-12-08 01:06:07 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:06:07 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:07 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Namikidori Ten (焼肉うしごろ)
+2024-12-08 01:06:07 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:07 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 01:06:08 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:06:08 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:06:08 | DEBUG    | Successfully parsed restaurant: Yakiuo Ishikawa (焼うお いし川)
+2024-12-08 01:06:08 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:06:08 | DEBUG    | Categories: Seafood, Yakiniku BBQ Beef, Sushi
+2024-12-08 01:06:08 | DEBUG    | Found Lunch price: JPY 6,000～JPY 7,999
+2024-12-08 01:06:08 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:08 | DEBUG    | Successfully parsed restaurant: Sushi Kotobuki (すし寿)
+2024-12-08 01:06:08 | DEBUG    | Price ranges - Lunch: JPY 6,000～JPY 7,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:08 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:08 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:06:08 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:06:08 | DEBUG    | Successfully parsed restaurant: Ginza Umi (銀座 海味)
+2024-12-08 01:06:08 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:06:08 | DEBUG    | Categories: Sushi, Japanese Cuisine, Seafood
+2024-12-08 01:06:08 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:06:08 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:06:08 | DEBUG    | Successfully parsed restaurant: Ginza Shabuki Kuroge Wagyu Shabushabu Sukiyaki Senmon Ten Ginza Hon Ten (銀座しゃぶ輝 黒毛和牛しゃぶしゃぶ・すき焼き専門店)
+2024-12-08 01:06:08 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:06:08 | DEBUG    | Categories: Shabu shabu Japanese hotpot, Sukiyaki, Hot Pot
+2024-12-08 01:06:09 | DEBUG    | Found Lunch price: JPY 6,000～JPY 7,999
+2024-12-08 01:06:09 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:09 | DEBUG    | Successfully parsed restaurant: Ginza Yokota (銀座 よこ田)
+2024-12-08 01:06:09 | DEBUG    | Price ranges - Lunch: JPY 6,000～JPY 7,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:09 | DEBUG    | Categories: Japanese Cuisine, Tempura, Sushi
+2024-12-08 01:06:09 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:09 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:06:09 | DEBUG    | Successfully parsed restaurant: Sushi Noboru (鮨 昇)
+2024-12-08 01:06:09 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:06:09 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:10 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:10 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:06:10 | DEBUG    | Successfully parsed restaurant: Sushi Hanaoka Shibuya (鮨 花おか)
+2024-12-08 01:06:10 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:06:10 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:10 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:10 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:10 | DEBUG    | Successfully parsed restaurant: Yurakucho Kakida (有楽町かきだ)
+2024-12-08 01:06:10 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:10 | DEBUG    | Categories: Sushi
+2024-12-08 01:06:10 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:06:10 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:06:10 | DEBUG    | Successfully parsed restaurant: KIWAMI (THE SUSHI GINZA 極)
+2024-12-08 01:06:10 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:06:10 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:11 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:06:11 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:06:11 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Omotesando Ten (焼肉うしごろ)
+2024-12-08 01:06:11 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:06:11 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 01:06:11 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:11 | DEBUG    | Successfully parsed restaurant: Ginza Chikamitsu (銀座 ちかみつ)
+2024-12-08 01:06:11 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:11 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Beef dishes
+2024-12-08 01:06:11 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:06:11 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Kenshin (恵比寿 鮨 謙心)
+2024-12-08 01:06:11 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:06:11 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:12 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:06:12 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:06:12 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Matsumoto (渋谷 鮨 まつもと)
+2024-12-08 01:06:12 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:06:12 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:06:12 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:06:13 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:06:13 | INFO     | Scraper closed
+2024-12-08 01:08:52 | INFO     | Database initialized successfully
+2024-12-08 01:08:52 | INFO     | Scraper initialized successfully
+2024-12-08 01:08:52 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:08:52 | INFO     | Starting scrape for tokyo, 1 pages
+2024-12-08 01:08:55 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:08:57 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:08:57 | DEBUG    | Successfully parsed restaurant: Yoroniku (よろにく)
+2024-12-08 01:08:57 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:08:57 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel
+2024-12-08 01:08:58 | DEBUG    | Found Lunch price: JPY 8,000～JPY 9,999
+2024-12-08 01:08:58 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:08:58 | DEBUG    | Successfully parsed restaurant: Seafood Buffet Dining Ginza Happo (海鮮ブッフェダイニング 銀座八芳)
+2024-12-08 01:08:58 | DEBUG    | Price ranges - Lunch: JPY 8,000～JPY 9,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:08:58 | DEBUG    | Categories: Yakiniku BBQ Beef, Sushi, Izakaya Tavern
+2024-12-08 01:08:58 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:08:58 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:08:58 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Sen (渋谷 すし仙)
+2024-12-08 01:08:58 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:08:58 | DEBUG    | Categories: Sushi, Seafood, Izakaya Tavern
+2024-12-08 01:08:58 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:08:58 | DEBUG    | Successfully parsed restaurant: Sushi Dokoro Isseki Sanchou (鮨処 一石三鳥)
+2024-12-08 01:08:58 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:08:58 | DEBUG    | Categories: Sushi, Seafood
+2024-12-08 01:08:58 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:08:58 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:08:58 | DEBUG    | Successfully parsed restaurant: Yakiniku Inoue Ginza Ten (焼肉いのうえ)
+2024-12-08 01:08:58 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:08:58 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Innovative
+2024-12-08 01:08:59 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:08:59 | DEBUG    | Successfully parsed restaurant: Yakiniku Motoyama Shinjuku Ten (焼肉もとやま)
+2024-12-08 01:08:59 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:08:59 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Korean
+2024-12-08 01:09:00 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:09:00 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:00 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Ginza Namikidori Ten (焼肉うしごろ)
+2024-12-08 01:09:00 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:00 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 01:09:00 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:09:00 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:09:00 | DEBUG    | Successfully parsed restaurant: Yakiuo Ishikawa (焼うお いし川)
+2024-12-08 01:09:00 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:09:00 | DEBUG    | Categories: Seafood, Yakiniku BBQ Beef, Sushi
+2024-12-08 01:09:00 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:09:00 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:09:00 | DEBUG    | Successfully parsed restaurant: Ginza Umi (銀座 海味)
+2024-12-08 01:09:00 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:09:00 | DEBUG    | Categories: Sushi, Japanese Cuisine, Seafood
+2024-12-08 01:09:00 | DEBUG    | Found Lunch price: JPY 6,000～JPY 7,999
+2024-12-08 01:09:00 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:00 | DEBUG    | Successfully parsed restaurant: Sushi Kotobuki (すし寿)
+2024-12-08 01:09:00 | DEBUG    | Price ranges - Lunch: JPY 6,000～JPY 7,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:00 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:01 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:09:01 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:09:01 | DEBUG    | Successfully parsed restaurant: Ginza Shabuki Kuroge Wagyu Shabushabu Sukiyaki Senmon Ten Ginza Hon Ten (銀座しゃぶ輝 黒毛和牛しゃぶしゃぶ・すき焼き専門店)
+2024-12-08 01:09:01 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:09:01 | DEBUG    | Categories: Shabu shabu Japanese hotpot, Sukiyaki, Hot Pot
+2024-12-08 01:09:01 | DEBUG    | Found Lunch price: JPY 6,000～JPY 7,999
+2024-12-08 01:09:01 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Successfully parsed restaurant: Ginza Yokota (銀座 よこ田)
+2024-12-08 01:09:02 | DEBUG    | Price ranges - Lunch: JPY 6,000～JPY 7,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Categories: Japanese Cuisine, Tempura, Sushi
+2024-12-08 01:09:02 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:09:02 | DEBUG    | Successfully parsed restaurant: Sushi Hanaoka Shibuya (鮨 花おか)
+2024-12-08 01:09:02 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:09:02 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:02 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:09:02 | DEBUG    | Successfully parsed restaurant: Sushi Noboru (鮨 昇)
+2024-12-08 01:09:02 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:09:02 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:02 | DEBUG    | Found Lunch price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Successfully parsed restaurant: Yurakucho Kakida (有楽町かきだ)
+2024-12-08 01:09:02 | DEBUG    | Price ranges - Lunch: JPY 10,000～JPY 14,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:02 | DEBUG    | Categories: Sushi
+2024-12-08 01:09:02 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:09:02 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:09:03 | DEBUG    | Successfully parsed restaurant: KIWAMI (THE SUSHI GINZA 極)
+2024-12-08 01:09:03 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:09:03 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:03 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:09:03 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:09:03 | DEBUG    | Successfully parsed restaurant: Yakiniku Ushigoro Omotesando Ten (焼肉うしごろ)
+2024-12-08 01:09:03 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:09:03 | DEBUG    | Categories: Yakiniku BBQ Beef, Steak, Horumon BBQ Offel
+2024-12-08 01:09:03 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:03 | DEBUG    | Successfully parsed restaurant: Ginza Chikamitsu (銀座 ちかみつ)
+2024-12-08 01:09:03 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:03 | DEBUG    | Categories: Yakiniku BBQ Beef, Horumon BBQ Offel, Beef dishes
+2024-12-08 01:09:04 | DEBUG    | Found Dinner price: JPY 15,000～JPY 19,999
+2024-12-08 01:09:04 | DEBUG    | Successfully parsed restaurant: Ebisu Sushi Kenshin (恵比寿 鮨 謙心)
+2024-12-08 01:09:04 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 15,000～JPY 19,999
+2024-12-08 01:09:04 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:05 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:09:05 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:09:05 | DEBUG    | Successfully parsed restaurant: Shibuya Sushi Matsumoto (渋谷 鮨 まつもと)
+2024-12-08 01:09:05 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:09:05 | DEBUG    | Categories: Sushi, Seafood, Japanese Cuisine
+2024-12-08 01:09:05 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:09:06 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:09:06 | INFO     | Scraper closed
+2024-12-08 01:22:33 | INFO     | Database initialized successfully
+2024-12-08 01:22:33 | INFO     | Scraper initialized successfully
+2024-12-08 01:22:33 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:22:33 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:22:36 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:22:38 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:38 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:38 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:22:38 | DEBUG    | Location: 34.669239537498434, 133.92493997825707
+2024-12-08 01:22:38 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:22:38 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:39 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:22:39 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:39 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:22:39 | DEBUG    | Location: 38.284169637414266, 140.869924109903
+2024-12-08 01:22:39 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:22:39 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:39 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:22:39 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:22:39 | DEBUG    | Successfully parsed restaurant: THE PIZZA BAR ON 38TH (ザ ピッツァバー ON 38TH)
+2024-12-08 01:22:39 | DEBUG    | Location: 35.686974038714474, 139.77303318443782
+2024-12-08 01:22:39 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:22:39 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:39 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:22:39 | DEBUG    | Successfully parsed restaurant: PIZZERIA ROMANA IL PENTITO (ピッツェリア・ロマーナ・イル・ペンティート)
+2024-12-08 01:22:39 | DEBUG    | Location: 35.68226193467567, 139.69667755166375
+2024-12-08 01:22:39 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:22:39 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:39 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:39 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:22:39 | DEBUG    | Successfully parsed restaurant: Don Bravo (ドンブラボー)
+2024-12-08 01:22:39 | DEBUG    | Location: 35.6482338386711, 139.55962218419612
+2024-12-08 01:22:39 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:22:39 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:22:39 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:39 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:22:39 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:22:39 | DEBUG    | Location: 35.46093423878426, 139.541384682317
+2024-12-08 01:22:39 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:22:39 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:40 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:22:40 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:22:40 | DEBUG    | Location: 26.215987240879002, 127.68168179724776
+2024-12-08 01:22:40 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:22:40 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:40 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:22:40 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:22:40 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza TOKYO (400℃ PIZZA)
+2024-12-08 01:22:40 | DEBUG    | Location: 35.70022773015323, 139.73939501011427
+2024-12-08 01:22:40 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:22:40 | DEBUG    | Categories: Pizza
+2024-12-08 01:22:41 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:22:41 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:41 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:22:41 | DEBUG    | Location: 35.413615237928404, 136.759573383789
+2024-12-08 01:22:41 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:22:41 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:22:41 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:41 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:41 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:22:41 | DEBUG    | Location: 34.698773194519404, 135.19358459246166
+2024-12-08 01:22:41 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:22:41 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:22:41 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:41 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:41 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:22:41 | DEBUG    | Location: 34.65800186789551, 133.9186410798581
+2024-12-08 01:22:41 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:22:41 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:22:42 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:42 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:22:42 | DEBUG    | Successfully parsed restaurant: Fakalo pizza gallery (ファカロー ピッツァ ギャラリー)
+2024-12-08 01:22:42 | DEBUG    | Location: 35.70500193870639, 139.7836001846125
+2024-12-08 01:22:42 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:22:42 | DEBUG    | Categories: Pizza
+2024-12-08 01:22:42 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:42 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:22:42 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:22:42 | DEBUG    | Location: 34.40275653720299, 132.46578827658823
+2024-12-08 01:22:42 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:22:42 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:22:42 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:42 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:22:42 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:22:42 | DEBUG    | Location: 36.22387363722145, 136.1556128923967
+2024-12-08 01:22:42 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:22:42 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:22:42 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:42 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:22:42 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:22:42 | DEBUG    | Location: 36.34192973792568, 138.60239319187409
+2024-12-08 01:22:42 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:22:42 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:22:42 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:42 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:42 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:22:42 | DEBUG    | Location: 33.586340637064225, 130.4018568697884
+2024-12-08 01:22:42 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:22:42 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:22:44 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:44 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:22:44 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:22:44 | DEBUG    | Location: 42.893908904180094, 140.6984634271848
+2024-12-08 01:22:44 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:22:44 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:22:44 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:22:44 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:44 | DEBUG    | Successfully parsed restaurant: SAVOY Tomato To Chese Ten (SAVOY)
+2024-12-08 01:22:44 | DEBUG    | Location: 35.65374013872356, 139.73527568412857
+2024-12-08 01:22:44 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:22:44 | DEBUG    | Categories: Pizza
+2024-12-08 01:22:44 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:22:44 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:22:44 | DEBUG    | Successfully parsed restaurant: IL PAPPALARDO (IL PAPPALARDO)
+2024-12-08 01:22:44 | DEBUG    | Location: 34.989452937884344, 135.77534268019446
+2024-12-08 01:22:44 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:22:44 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:22:44 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:22:44 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:22:44 | DEBUG    | Successfully parsed restaurant: Seirinkan (聖林館)
+2024-12-08 01:22:44 | DEBUG    | Location: 35.6428760387189, 139.69903928404423
+2024-12-08 01:22:44 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:22:44 | DEBUG    | Categories: Pizza, Pasta, Italian
+2024-12-08 01:22:44 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:22:44 | INFO     | Found 20 restaurants, 20 new entries added
+2024-12-08 01:22:45 | INFO     | Scraping completed. Total restaurants in database: 40
+2024-12-08 01:22:45 | INFO     | Scraper closed
+2024-12-08 01:26:37 | INFO     | Database initialized successfully
+2024-12-08 01:26:37 | INFO     | Scraper initialized successfully
+2024-12-08 01:26:37 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:26:37 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:26:41 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:26:42 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:42 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:42 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:26:42 | DEBUG    | Location: 34.669239537498434, 133.92493997825707
+2024-12-08 01:26:42 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:26:42 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:43 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:26:43 | DEBUG    | Successfully parsed restaurant: PIZZERIA ROMANA IL PENTITO (ピッツェリア・ロマーナ・イル・ペンティート)
+2024-12-08 01:26:43 | DEBUG    | Location: 35.68226193467567, 139.69667755166375
+2024-12-08 01:26:43 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:26:43 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:44 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:26:44 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:44 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:26:44 | DEBUG    | Location: 38.284169637414266, 140.869924109903
+2024-12-08 01:26:44 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:26:44 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:44 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:26:44 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:26:44 | DEBUG    | Successfully parsed restaurant: THE PIZZA BAR ON 38TH (ザ ピッツァバー ON 38TH)
+2024-12-08 01:26:44 | DEBUG    | Location: 35.686974038714474, 139.77303318443782
+2024-12-08 01:26:44 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:26:44 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:44 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:44 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:26:44 | DEBUG    | Successfully parsed restaurant: Don Bravo (ドンブラボー)
+2024-12-08 01:26:44 | DEBUG    | Location: 35.6482338386711, 139.55962218419612
+2024-12-08 01:26:44 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:26:44 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:26:44 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:44 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:26:44 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:26:44 | DEBUG    | Location: 35.46093423878426, 139.541384682317
+2024-12-08 01:26:44 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:26:44 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:45 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:26:45 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:26:45 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza TOKYO (400℃ PIZZA)
+2024-12-08 01:26:45 | DEBUG    | Location: 35.70022773015323, 139.73939501011427
+2024-12-08 01:26:45 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:26:45 | DEBUG    | Categories: Pizza
+2024-12-08 01:26:45 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:45 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:45 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:26:45 | DEBUG    | Location: 34.698773194519404, 135.19358459246166
+2024-12-08 01:26:45 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:26:45 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:26:45 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:26:45 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:45 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:26:45 | DEBUG    | Location: 35.413615237928404, 136.759573383789
+2024-12-08 01:26:45 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:26:45 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:26:45 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:26:45 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:26:45 | DEBUG    | Location: 26.215987240879002, 127.68168179724776
+2024-12-08 01:26:45 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:26:45 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:45 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:45 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:45 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:26:45 | DEBUG    | Location: 34.65800186789551, 133.9186410798581
+2024-12-08 01:26:45 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:26:45 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:26:47 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:47 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:26:47 | DEBUG    | Successfully parsed restaurant: Fakalo pizza gallery (ファカロー ピッツァ ギャラリー)
+2024-12-08 01:26:47 | DEBUG    | Location: 35.70500193870639, 139.7836001846125
+2024-12-08 01:26:47 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:26:47 | DEBUG    | Categories: Pizza
+2024-12-08 01:26:47 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:47 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:26:47 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:26:47 | DEBUG    | Location: 34.40275653720299, 132.46578827658823
+2024-12-08 01:26:47 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:26:47 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:26:47 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:47 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:26:47 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:26:47 | DEBUG    | Location: 36.22387363722145, 136.1556128923967
+2024-12-08 01:26:47 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:26:47 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:26:47 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:47 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:26:47 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:26:47 | DEBUG    | Location: 36.34192973792568, 138.60239319187409
+2024-12-08 01:26:47 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:26:47 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:26:47 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:47 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:47 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:26:47 | DEBUG    | Location: 33.586340637064225, 130.4018568697884
+2024-12-08 01:26:47 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:26:47 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:26:48 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:48 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:26:48 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:26:48 | DEBUG    | Location: 42.893908904180094, 140.6984634271848
+2024-12-08 01:26:48 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:26:48 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:26:48 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:26:48 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:26:48 | DEBUG    | Successfully parsed restaurant: IL PAPPALARDO (IL PAPPALARDO)
+2024-12-08 01:26:48 | DEBUG    | Location: 34.989452937884344, 135.77534268019446
+2024-12-08 01:26:48 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:26:48 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:26:48 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:26:48 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:48 | DEBUG    | Successfully parsed restaurant: SAVOY Tomato To Chese Ten (SAVOY)
+2024-12-08 01:26:48 | DEBUG    | Location: 35.65374013872356, 139.73527568412857
+2024-12-08 01:26:48 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:26:48 | DEBUG    | Categories: Pizza
+2024-12-08 01:26:49 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:26:49 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:26:49 | DEBUG    | Successfully parsed restaurant: Seirinkan (聖林館)
+2024-12-08 01:26:49 | DEBUG    | Location: 35.6428760387189, 139.69903928404423
+2024-12-08 01:26:49 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:26:49 | DEBUG    | Categories: Pizza, Pasta, Italian
+2024-12-08 01:26:49 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:26:49 | INFO     | Found 20 restaurants, 20 new entries added
+2024-12-08 01:26:50 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:26:50 | INFO     | Scraper closed
+2024-12-08 01:30:18 | INFO     | Database initialized successfully
+2024-12-08 01:30:18 | INFO     | Scraper initialized successfully
+2024-12-08 01:30:18 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:30:18 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:30:22 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:30:23 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:30:23 | INFO     | Scraper closed
+2024-12-08 01:30:39 | INFO     | Database initialized successfully
+2024-12-08 01:30:39 | INFO     | Scraper initialized successfully
+2024-12-08 01:30:39 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:30:39 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:30:43 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:30:44 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33015797/', 'name': '400℃ Pizza', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/231434/640x640_rect_77b439e43773aec3a1de8c8a5ff42520.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tondacho Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000816', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.669239537498434, 'longitude': 133.92493997825707}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '149', 'ratingValue': '4.27'}}
+2024-12-08 01:30:44 | DEBUG    | Extracted location data - City: Tondacho, Region: Okayama, Lat: 34.669239537498434, Long: 133.92493997825707
+2024-12-08 01:30:44 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:44 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:44 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:30:44 | DEBUG    | Location: Tondacho, Okayama (34.669239537498434, 133.92493997825707)
+2024-12-08 01:30:44 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:30:44 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:46 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1318/A131810/13000684/', 'name': 'PIZZERIA ROMANA IL PENTITO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269504/640x640_rect_189e977c7d2ee3fe3ad0e660fb6f70b1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Yoyogi Shibuya Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1510053', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.68226193467567, 'longitude': 139.69667755166375}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3320-5699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '309', 'ratingValue': '3.86'}}
+2024-12-08 01:30:46 | DEBUG    | Extracted location data - City: Yoyogi, Region: Tokyo, Lat: 35.68226193467567, Long: 139.69667755166375
+2024-12-08 01:30:46 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:30:46 | DEBUG    | Successfully parsed restaurant: PIZZERIA ROMANA IL PENTITO (ピッツェリア・ロマーナ・イル・ペンティート)
+2024-12-08 01:30:46 | DEBUG    | Location: Yoyogi, Tokyo (35.68226193467567, 139.69667755166375)
+2024-12-08 01:30:46 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:30:46 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:46 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1326/A132601/13144681/', 'name': 'Don Bravo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/103069/640x640_rect_103069612.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kokuryocho Chofu Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1820022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6482338386711, 'longitude': 139.55962218419612}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-42-482-7378', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '563', 'ratingValue': '3.86'}}
+2024-12-08 01:30:46 | DEBUG    | Extracted location data - City: Kokuryocho, Region: Tokyo, Lat: 35.6482338386711, Long: 139.55962218419612
+2024-12-08 01:30:46 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:46 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:30:46 | DEBUG    | Successfully parsed restaurant: Don Bravo (ドンブラボー)
+2024-12-08 01:30:46 | DEBUG    | Location: Kokuryocho, Tokyo (35.6482338386711, 139.55962218419612)
+2024-12-08 01:30:46 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:30:46 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:30:46 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/miyagi/A0401/A040101/4016875/', 'name': 'IL PIZZAIOLO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/192001/640x640_rect_77d3d1bc4c6bceb0dbde2de1651a0224.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tsutsumimachi Aoba-ku Sendai Miyagi', 'addressRegion': 'Miyagi', 'postalCode': '9810912', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 38.284169637414266, 'longitude': 140.869924109903}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-22-725-3141', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '201', 'ratingValue': '3.94'}}
+2024-12-08 01:30:46 | DEBUG    | Extracted location data - City: Tsutsumimachi, Region: Miyagi, Lat: 38.284169637414266, Long: 140.869924109903
+2024-12-08 01:30:46 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:30:46 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:46 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:30:46 | DEBUG    | Location: Tsutsumimachi, Miyagi (38.284169637414266, 140.869924109903)
+2024-12-08 01:30:46 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:30:46 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:46 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1302/A130202/13167573/', 'name': 'THE PIZZA BAR ON 38TH', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/248894/320x320_rect_82c500908589d867c02adcd6791c77b4.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nihonbashimuromachi Chuo Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1030022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.686974038714474, 'longitude': 139.77303318443782}, 'priceRange': 'JPY 20,000～JPY 29,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3270-8188', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '396', 'ratingValue': '3.89'}}
+2024-12-08 01:30:46 | DEBUG    | Extracted location data - City: Nihonbashimuromachi, Region: Tokyo, Lat: 35.686974038714474, Long: 139.77303318443782
+2024-12-08 01:30:46 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:30:46 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:30:46 | DEBUG    | Successfully parsed restaurant: THE PIZZA BAR ON 38TH (ザ ピッツァバー ON 38TH)
+2024-12-08 01:30:46 | DEBUG    | Location: Nihonbashimuromachi, Tokyo (35.686974038714474, 139.77303318443782)
+2024-12-08 01:30:46 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:30:46 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:46 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kanagawa/A1401/A140303/14085676/', 'name': 'hectopascal', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/213934/640x640_rect_68db0f74f0fd806f2ffb1b32af1b825d.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Minamihonjukucho Asahi-ku Yokohama Kanagawa', 'addressRegion': 'Kanagawa', 'postalCode': '2410833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.46093423878426, 'longitude': 139.541384682317}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '261', 'ratingValue': '3.81'}}
+2024-12-08 01:30:46 | DEBUG    | Extracted location data - City: Minamihonjukucho, Region: Kanagawa, Lat: 35.46093423878426, Long: 139.541384682317
+2024-12-08 01:30:46 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:46 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:30:46 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:30:46 | DEBUG    | Location: Minamihonjukucho, Kanagawa (35.46093423878426, 139.541384682317)
+2024-12-08 01:30:46 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:30:46 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:47 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/gifu/A2101/A210101/21012908/', 'name': 'DA ACHIU', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157069/640x640_rect_157069038.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kandamachi Gifu Gifu', 'addressRegion': 'Gifu', 'postalCode': '5008833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.413615237928404, 'longitude': 136.759573383789}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-58-266-1116', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '526', 'ratingValue': '3.77'}}
+2024-12-08 01:30:47 | DEBUG    | Extracted location data - City: Kandamachi, Region: Gifu, Lat: 35.413615237928404, Long: 136.759573383789
+2024-12-08 01:30:47 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:30:47 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:47 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:30:47 | DEBUG    | Location: Kandamachi, Gifu (35.413615237928404, 136.759573383789)
+2024-12-08 01:30:47 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:30:47 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:30:47 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1309/A130905/13294495/', 'name': '400℃ Pizza TOKYO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/258187/640x640_rect_0aacd5f5c7f86d8697c76a95f1b6e129.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Wakamiyacho Shinjuku Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1620827', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70022773015323, 'longitude': 139.73939501011427}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Pizza', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '458', 'ratingValue': '3.79'}}
+2024-12-08 01:30:47 | DEBUG    | Extracted location data - City: Wakamiyacho, Region: Tokyo, Lat: 35.70022773015323, Long: 139.73939501011427
+2024-12-08 01:30:47 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:30:47 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:30:47 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza TOKYO (400℃ PIZZA)
+2024-12-08 01:30:47 | DEBUG    | Location: Wakamiyacho, Tokyo (35.70022773015323, 139.73939501011427)
+2024-12-08 01:30:47 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:30:47 | DEBUG    | Categories: Pizza
+2024-12-08 01:30:47 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okinawa/A4701/A470101/47003553/', 'name': 'BACAR', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/224350/640x640_rect_ac297da1b1a3e77634f6f514bd2f7dd1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kumoji Naha Okinawa', 'addressRegion': 'Okinawa', 'postalCode': '9000015', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 26.215987240879002, 'longitude': 127.68168179724776}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-98-863-5678', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '730', 'ratingValue': '3.79'}}
+2024-12-08 01:30:47 | DEBUG    | Extracted location data - City: Kumoji, Region: Okinawa, Lat: 26.215987240879002, Long: 127.68168179724776
+2024-12-08 01:30:47 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:30:47 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:30:47 | DEBUG    | Location: Kumoji, Okinawa (26.215987240879002, 127.68168179724776)
+2024-12-08 01:30:47 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:30:47 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:47 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hyogo/A2801/A280101/28046909/', 'name': 'Bar Ciccia', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157486/640x640_rect_157486970.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kanocho Chuo-ku Kobe Hyogo', 'addressRegion': 'Hyogo', 'postalCode': '6500001', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.698773194519404, 'longitude': 135.19358459246166}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Baru (Spanish style bar),Pizza', 'telephone': '+81-78-855-5088', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '453', 'ratingValue': '3.76'}}
+2024-12-08 01:30:48 | DEBUG    | Extracted location data - City: Kanocho, Region: Hyogo, Lat: 34.698773194519404, Long: 135.19358459246166
+2024-12-08 01:30:48 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:48 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:48 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:30:48 | DEBUG    | Location: Kanocho, Hyogo (34.698773194519404, 135.19358459246166)
+2024-12-08 01:30:48 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:30:48 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:30:48 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33019066/', 'name': '400℃ Mori No Machi', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/223200/640x640_rect_a9d379e1086c98eb69fc53f592b7662b.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Shimoishii Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000907', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.65800186789551, 'longitude': 133.9186410798581}, 'priceRange': 'JPY 2,000～JPY 2,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '345', 'ratingValue': '3.76'}}
+2024-12-08 01:30:48 | DEBUG    | Extracted location data - City: Shimoishii, Region: Okayama, Lat: 34.65800186789551, Long: 133.9186410798581
+2024-12-08 01:30:48 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:48 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:48 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:30:48 | DEBUG    | Location: Shimoishii, Okayama (34.65800186789551, 133.9186410798581)
+2024-12-08 01:30:48 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:30:48 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:30:49 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1311/A131101/13269491/', 'name': 'Fakalo pizza gallery', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/265662/640x640_rect_3175d6fef66cd16607f849c810606c1a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kojima Taito Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1110056', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70500193870639, 'longitude': 139.7836001846125}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Pizza', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '208', 'ratingValue': '3.75'}}
+2024-12-08 01:30:49 | DEBUG    | Extracted location data - City: Kojima, Region: Tokyo, Lat: 35.70500193870639, Long: 139.7836001846125
+2024-12-08 01:30:49 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:49 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:30:49 | DEBUG    | Successfully parsed restaurant: Fakalo pizza gallery (ファカロー ピッツァ ギャラリー)
+2024-12-08 01:30:49 | DEBUG    | Location: Kojima, Tokyo (35.70500193870639, 139.7836001846125)
+2024-12-08 01:30:49 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:30:49 | DEBUG    | Categories: Pizza
+2024-12-08 01:30:49 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hiroshima/A3401/A340118/34013074/', 'name': 'TRATTORIA-PIZZERIA polipo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269035/640x640_rect_82025be8d0b7ee87f39aef10ba0b1aca.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Higashihakushimacho Naka-ku Hiroshima Hiroshima', 'addressRegion': 'Hiroshima', 'postalCode': '7300004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.40275653720299, 'longitude': 132.46578827658823}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-82-221-0331', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '274', 'ratingValue': '3.75'}}
+2024-12-08 01:30:49 | DEBUG    | Extracted location data - City: Higashihakushimacho, Region: Hiroshima, Lat: 34.40275653720299, Long: 132.46578827658823
+2024-12-08 01:30:49 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:49 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:30:49 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:30:49 | DEBUG    | Location: Higashihakushimacho, Hiroshima (34.40275653720299, 132.46578827658823)
+2024-12-08 01:30:49 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:30:49 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:30:49 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/nagano/A2003/A200301/20018926/', 'name': '‘A FENESTELLA', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/250011/640x640_rect_c13cb525a5bdbd9d892befb1884d2dbf.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nagakura Karuizawa Kitasaku-gun Nagano', 'addressRegion': 'Nagano', 'postalCode': '3890111', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.34192973792568, 'longitude': 138.60239319187409}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-267-31-6770', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '452', 'ratingValue': '3.74'}}
+2024-12-08 01:30:49 | DEBUG    | Extracted location data - City: Nagakura, Region: Nagano, Lat: 36.34192973792568, Long: 138.60239319187409
+2024-12-08 01:30:49 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:49 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:30:49 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:30:49 | DEBUG    | Location: Nagakura, Nagano (36.34192973792568, 138.60239319187409)
+2024-12-08 01:30:49 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:30:49 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:30:49 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukui/A1801/A180102/18000038/', 'name': 'BIRD LAND', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/200394/640x640_rect_c2fa78ed6540fe9a426f4bc27774f25a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Mikunicho Midorigaoka Sakai Fukui', 'addressRegion': 'Fukui', 'postalCode': '9130048', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.22387363722145, 'longitude': 136.1556128923967}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-776-82-5778', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '213', 'ratingValue': '3.74'}}
+2024-12-08 01:30:49 | DEBUG    | Extracted location data - City: Mikunicho, Region: Fukui, Lat: 36.22387363722145, Long: 136.1556128923967
+2024-12-08 01:30:49 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:49 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:30:49 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:30:49 | DEBUG    | Location: Mikunicho, Fukui (36.22387363722145, 136.1556128923967)
+2024-12-08 01:30:49 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:30:49 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:30:49 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukuoka/A4001/A400103/40000304/', 'name': 'Verona', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/268806/640x640_rect_a7354e58363866b8934be00e37fbc4cb.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Watanabedori Chuo-ku Fukuoka Fukuoka', 'addressRegion': 'Fukuoka', 'postalCode': '8100004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 33.586340637064225, 'longitude': 130.4018568697884}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pasta,Pizza', 'telephone': '+81-92-721-0057', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '106', 'ratingValue': '3.74'}}
+2024-12-08 01:30:49 | DEBUG    | Extracted location data - City: Watanabedori, Region: Fukuoka, Lat: 33.586340637064225, Long: 130.4018568697884
+2024-12-08 01:30:49 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:49 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:49 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:30:49 | DEBUG    | Location: Watanabedori, Fukuoka (33.586340637064225, 130.4018568697884)
+2024-12-08 01:30:49 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:30:49 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:30:51 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hokkaido/A0106/A010603/1065924/', 'name': 'Olivio', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/220734/640x640_rect_89afa2366c69869d50c384def8934f7c.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': '', 'addressRegion': 'Hokkaido', 'postalCode': '0440000', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 42.893908904180094, 'longitude': 140.6984634271848}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-136-27-1234', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '23', 'ratingValue': '3.74'}}
+2024-12-08 01:30:51 | DEBUG    | Extracted location data - City: None, Region: Hokkaido, Lat: 42.893908904180094, Long: 140.6984634271848
+2024-12-08 01:30:51 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:51 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:30:51 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:30:51 | DEBUG    | Location: None, Hokkaido (42.893908904180094, 140.6984634271848)
+2024-12-08 01:30:51 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:30:51 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:30:51 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kyoto/A2601/A260304/26001638/', 'name': 'IL PAPPALARDO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/12904/640x640_rect_12904983.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Myohoin Maekawacho Higashiyama-ku Kyoto Kyoto', 'addressRegion': 'Kyoto', 'postalCode': '6050932', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.989452937884344, 'longitude': 135.77534268019446}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-75-533-3330', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '289', 'ratingValue': '3.73'}}
+2024-12-08 01:30:51 | DEBUG    | Extracted location data - City: Myohoin, Region: Kyoto, Lat: 34.989452937884344, Long: 135.77534268019446
+2024-12-08 01:30:51 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:30:51 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:30:51 | DEBUG    | Successfully parsed restaurant: IL PAPPALARDO (IL PAPPALARDO)
+2024-12-08 01:30:51 | DEBUG    | Location: Myohoin, Kyoto (34.989452937884344, 135.77534268019446)
+2024-12-08 01:30:51 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:30:51 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:30:51 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1307/A130702/13155593/', 'name': 'SAVOY Tomato To Chese Ten', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/172830/640x640_rect_f317d85d6b220308c273052622372bce.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Azabujuban Minato Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1060045', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.65374013872356, 'longitude': 139.73527568412857}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza', 'telephone': '+81-3-3451-6699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '429', 'ratingValue': '3.73'}}
+2024-12-08 01:30:51 | DEBUG    | Extracted location data - City: Azabujuban, Region: Tokyo, Lat: 35.65374013872356, Long: 139.73527568412857
+2024-12-08 01:30:51 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:30:51 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:51 | DEBUG    | Successfully parsed restaurant: SAVOY Tomato To Chese Ten (SAVOY)
+2024-12-08 01:30:51 | DEBUG    | Location: Azabujuban, Tokyo (35.65374013872356, 139.73527568412857)
+2024-12-08 01:30:51 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:30:51 | DEBUG    | Categories: Pizza
+2024-12-08 01:30:51 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1317/A131701/13003188/', 'name': 'Seirinkan', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/25868/640x640_rect_25868561.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kamimeguro Meguro Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1530051', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6428760387189, 'longitude': 139.69903928404423}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Pasta,Italian', 'telephone': '+81-3-3714-5160', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '2130', 'ratingValue': '3.72'}}
+2024-12-08 01:30:51 | DEBUG    | Extracted location data - City: Kamimeguro, Region: Tokyo, Lat: 35.6428760387189, Long: 139.69903928404423
+2024-12-08 01:30:51 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:30:51 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:30:51 | DEBUG    | Successfully parsed restaurant: Seirinkan (聖林館)
+2024-12-08 01:30:51 | DEBUG    | Location: Kamimeguro, Tokyo (35.6428760387189, 139.69903928404423)
+2024-12-08 01:30:51 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:30:51 | DEBUG    | Categories: Pizza, Pasta, Italian
+2024-12-08 01:30:51 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:30:51 | INFO     | Found 20 restaurants, 20 new entries added
+2024-12-08 01:30:53 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:30:53 | INFO     | Scraper closed
+2024-12-08 01:33:07 | INFO     | Database initialized successfully
+2024-12-08 01:33:07 | INFO     | Scraper initialized successfully
+2024-12-08 01:33:07 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:33:07 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:33:20 | ERROR    | Error fetching https://tabelog.com/en/rstLst/pizza/?SrtT=rt: [Errno 11001] getaddrinfo failed
+2024-12-08 01:33:25 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:33:26 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33015797/', 'name': '400℃ Pizza', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/231434/640x640_rect_77b439e43773aec3a1de8c8a5ff42520.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tondacho Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000816', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.669239537498434, 'longitude': 133.92493997825707}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '149', 'ratingValue': '4.27'}}
+2024-12-08 01:33:26 | DEBUG    | Extracted location data - City: Tondacho, Region: Okayama, Lat: 34.669239537498434, Long: 133.92493997825707
+2024-12-08 01:33:26 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:26 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:26 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:33:26 | DEBUG    | Location: Tondacho, Okayama (34.669239537498434, 133.92493997825707)
+2024-12-08 01:33:26 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:33:26 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:27 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1318/A131810/13000684/', 'name': 'PIZZERIA ROMANA IL PENTITO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269504/640x640_rect_189e977c7d2ee3fe3ad0e660fb6f70b1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Yoyogi Shibuya Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1510053', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.68226193467567, 'longitude': 139.69667755166375}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3320-5699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '309', 'ratingValue': '3.86'}}
+2024-12-08 01:33:27 | DEBUG    | Extracted location data - City: Yoyogi, Region: Tokyo, Lat: 35.68226193467567, Long: 139.69667755166375
+2024-12-08 01:33:27 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:33:27 | DEBUG    | Successfully parsed restaurant: PIZZERIA ROMANA IL PENTITO (ピッツェリア・ロマーナ・イル・ペンティート)
+2024-12-08 01:33:27 | DEBUG    | Location: Yoyogi, Tokyo (35.68226193467567, 139.69667755166375)
+2024-12-08 01:33:27 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:33:27 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/miyagi/A0401/A040101/4016875/', 'name': 'IL PIZZAIOLO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/192001/640x640_rect_77d3d1bc4c6bceb0dbde2de1651a0224.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tsutsumimachi Aoba-ku Sendai Miyagi', 'addressRegion': 'Miyagi', 'postalCode': '9810912', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 38.284169637414266, 'longitude': 140.869924109903}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-22-725-3141', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '201', 'ratingValue': '3.94'}}
+2024-12-08 01:33:28 | DEBUG    | Extracted location data - City: Tsutsumimachi, Region: Miyagi, Lat: 38.284169637414266, Long: 140.869924109903
+2024-12-08 01:33:28 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:33:28 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:28 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:33:28 | DEBUG    | Location: Tsutsumimachi, Miyagi (38.284169637414266, 140.869924109903)
+2024-12-08 01:33:28 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:33:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1302/A130202/13167573/', 'name': 'THE PIZZA BAR ON 38TH', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/248894/320x320_rect_82c500908589d867c02adcd6791c77b4.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nihonbashimuromachi Chuo Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1030022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.686974038714474, 'longitude': 139.77303318443782}, 'priceRange': 'JPY 20,000～JPY 29,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3270-8188', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '396', 'ratingValue': '3.89'}}
+2024-12-08 01:33:28 | DEBUG    | Extracted location data - City: Nihonbashimuromachi, Region: Tokyo, Lat: 35.686974038714474, Long: 139.77303318443782
+2024-12-08 01:33:28 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:33:28 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:33:28 | DEBUG    | Successfully parsed restaurant: THE PIZZA BAR ON 38TH (ザ ピッツァバー ON 38TH)
+2024-12-08 01:33:28 | DEBUG    | Location: Nihonbashimuromachi, Tokyo (35.686974038714474, 139.77303318443782)
+2024-12-08 01:33:28 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:33:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1326/A132601/13144681/', 'name': 'Don Bravo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/103069/640x640_rect_103069612.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kokuryocho Chofu Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1820022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6482338386711, 'longitude': 139.55962218419612}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-42-482-7378', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '563', 'ratingValue': '3.86'}}
+2024-12-08 01:33:28 | DEBUG    | Extracted location data - City: Kokuryocho, Region: Tokyo, Lat: 35.6482338386711, Long: 139.55962218419612
+2024-12-08 01:33:28 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:28 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:33:28 | DEBUG    | Successfully parsed restaurant: Don Bravo (ドンブラボー)
+2024-12-08 01:33:28 | DEBUG    | Location: Kokuryocho, Tokyo (35.6482338386711, 139.55962218419612)
+2024-12-08 01:33:28 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:33:28 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:33:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kanagawa/A1401/A140303/14085676/', 'name': 'hectopascal', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/213934/640x640_rect_68db0f74f0fd806f2ffb1b32af1b825d.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Minamihonjukucho Asahi-ku Yokohama Kanagawa', 'addressRegion': 'Kanagawa', 'postalCode': '2410833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.46093423878426, 'longitude': 139.541384682317}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '261', 'ratingValue': '3.81'}}
+2024-12-08 01:33:28 | DEBUG    | Extracted location data - City: Minamihonjukucho, Region: Kanagawa, Lat: 35.46093423878426, Long: 139.541384682317
+2024-12-08 01:33:28 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:28 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:33:28 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:33:28 | DEBUG    | Location: Minamihonjukucho, Kanagawa (35.46093423878426, 139.541384682317)
+2024-12-08 01:33:28 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:33:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:29 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okinawa/A4701/A470101/47003553/', 'name': 'BACAR', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/224350/640x640_rect_ac297da1b1a3e77634f6f514bd2f7dd1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kumoji Naha Okinawa', 'addressRegion': 'Okinawa', 'postalCode': '9000015', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 26.215987240879002, 'longitude': 127.68168179724776}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-98-863-5678', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '730', 'ratingValue': '3.79'}}
+2024-12-08 01:33:29 | DEBUG    | Extracted location data - City: Kumoji, Region: Okinawa, Lat: 26.215987240879002, Long: 127.68168179724776
+2024-12-08 01:33:29 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:33:29 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:33:29 | DEBUG    | Location: Kumoji, Okinawa (26.215987240879002, 127.68168179724776)
+2024-12-08 01:33:29 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:33:29 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:29 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1309/A130905/13294495/', 'name': '400℃ Pizza TOKYO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/258187/640x640_rect_0aacd5f5c7f86d8697c76a95f1b6e129.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Wakamiyacho Shinjuku Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1620827', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70022773015323, 'longitude': 139.73939501011427}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Pizza', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '458', 'ratingValue': '3.79'}}
+2024-12-08 01:33:29 | DEBUG    | Extracted location data - City: Wakamiyacho, Region: Tokyo, Lat: 35.70022773015323, Long: 139.73939501011427
+2024-12-08 01:33:29 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:33:29 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:33:29 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza TOKYO (400℃ PIZZA)
+2024-12-08 01:33:29 | DEBUG    | Location: Wakamiyacho, Tokyo (35.70022773015323, 139.73939501011427)
+2024-12-08 01:33:29 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:33:29 | DEBUG    | Categories: Pizza
+2024-12-08 01:33:29 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hyogo/A2801/A280101/28046909/', 'name': 'Bar Ciccia', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157486/640x640_rect_157486970.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kanocho Chuo-ku Kobe Hyogo', 'addressRegion': 'Hyogo', 'postalCode': '6500001', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.698773194519404, 'longitude': 135.19358459246166}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Baru (Spanish style bar),Pizza', 'telephone': '+81-78-855-5088', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '453', 'ratingValue': '3.76'}}
+2024-12-08 01:33:29 | DEBUG    | Extracted location data - City: Kanocho, Region: Hyogo, Lat: 34.698773194519404, Long: 135.19358459246166
+2024-12-08 01:33:29 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:29 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:29 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:33:29 | DEBUG    | Location: Kanocho, Hyogo (34.698773194519404, 135.19358459246166)
+2024-12-08 01:33:29 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:33:29 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:33:29 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/gifu/A2101/A210101/21012908/', 'name': 'DA ACHIU', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157069/640x640_rect_157069038.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kandamachi Gifu Gifu', 'addressRegion': 'Gifu', 'postalCode': '5008833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.413615237928404, 'longitude': 136.759573383789}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-58-266-1116', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '526', 'ratingValue': '3.77'}}
+2024-12-08 01:33:29 | DEBUG    | Extracted location data - City: Kandamachi, Region: Gifu, Lat: 35.413615237928404, Long: 136.759573383789
+2024-12-08 01:33:29 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:33:29 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:29 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:33:29 | DEBUG    | Location: Kandamachi, Gifu (35.413615237928404, 136.759573383789)
+2024-12-08 01:33:29 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:33:29 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:33:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33019066/', 'name': '400℃ Mori No Machi', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/223200/640x640_rect_a9d379e1086c98eb69fc53f592b7662b.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Shimoishii Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000907', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.65800186789551, 'longitude': 133.9186410798581}, 'priceRange': 'JPY 2,000～JPY 2,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '345', 'ratingValue': '3.76'}}
+2024-12-08 01:33:30 | DEBUG    | Extracted location data - City: Shimoishii, Region: Okayama, Lat: 34.65800186789551, Long: 133.9186410798581
+2024-12-08 01:33:30 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:30 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:30 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:33:30 | DEBUG    | Location: Shimoishii, Okayama (34.65800186789551, 133.9186410798581)
+2024-12-08 01:33:30 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:33:30 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:33:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1311/A131101/13269491/', 'name': 'Fakalo pizza gallery', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/265662/640x640_rect_3175d6fef66cd16607f849c810606c1a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kojima Taito Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1110056', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70500193870639, 'longitude': 139.7836001846125}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Pizza', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '208', 'ratingValue': '3.75'}}
+2024-12-08 01:33:31 | DEBUG    | Extracted location data - City: Kojima, Region: Tokyo, Lat: 35.70500193870639, Long: 139.7836001846125
+2024-12-08 01:33:31 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:31 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:33:31 | DEBUG    | Successfully parsed restaurant: Fakalo pizza gallery (ファカロー ピッツァ ギャラリー)
+2024-12-08 01:33:31 | DEBUG    | Location: Kojima, Tokyo (35.70500193870639, 139.7836001846125)
+2024-12-08 01:33:31 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:33:31 | DEBUG    | Categories: Pizza
+2024-12-08 01:33:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/nagano/A2003/A200301/20018926/', 'name': '‘A FENESTELLA', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/250011/640x640_rect_c13cb525a5bdbd9d892befb1884d2dbf.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nagakura Karuizawa Kitasaku-gun Nagano', 'addressRegion': 'Nagano', 'postalCode': '3890111', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.34192973792568, 'longitude': 138.60239319187409}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-267-31-6770', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '452', 'ratingValue': '3.74'}}
+2024-12-08 01:33:31 | DEBUG    | Extracted location data - City: Nagakura, Region: Nagano, Lat: 36.34192973792568, Long: 138.60239319187409
+2024-12-08 01:33:31 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:31 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:33:31 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:33:31 | DEBUG    | Location: Nagakura, Nagano (36.34192973792568, 138.60239319187409)
+2024-12-08 01:33:31 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:33:31 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:33:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukui/A1801/A180102/18000038/', 'name': 'BIRD LAND', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/200394/640x640_rect_c2fa78ed6540fe9a426f4bc27774f25a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Mikunicho Midorigaoka Sakai Fukui', 'addressRegion': 'Fukui', 'postalCode': '9130048', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.22387363722145, 'longitude': 136.1556128923967}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-776-82-5778', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '213', 'ratingValue': '3.74'}}
+2024-12-08 01:33:31 | DEBUG    | Extracted location data - City: Mikunicho, Region: Fukui, Lat: 36.22387363722145, Long: 136.1556128923967
+2024-12-08 01:33:31 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:31 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:33:31 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:33:31 | DEBUG    | Location: Mikunicho, Fukui (36.22387363722145, 136.1556128923967)
+2024-12-08 01:33:31 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:33:31 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:33:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hiroshima/A3401/A340118/34013074/', 'name': 'TRATTORIA-PIZZERIA polipo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269035/640x640_rect_82025be8d0b7ee87f39aef10ba0b1aca.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Higashihakushimacho Naka-ku Hiroshima Hiroshima', 'addressRegion': 'Hiroshima', 'postalCode': '7300004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.40275653720299, 'longitude': 132.46578827658823}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-82-221-0331', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '274', 'ratingValue': '3.75'}}
+2024-12-08 01:33:31 | DEBUG    | Extracted location data - City: Higashihakushimacho, Region: Hiroshima, Lat: 34.40275653720299, Long: 132.46578827658823
+2024-12-08 01:33:31 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:31 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:33:31 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:33:31 | DEBUG    | Location: Higashihakushimacho, Hiroshima (34.40275653720299, 132.46578827658823)
+2024-12-08 01:33:31 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:33:31 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:33:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukuoka/A4001/A400103/40000304/', 'name': 'Verona', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/268806/640x640_rect_a7354e58363866b8934be00e37fbc4cb.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Watanabedori Chuo-ku Fukuoka Fukuoka', 'addressRegion': 'Fukuoka', 'postalCode': '8100004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 33.586340637064225, 'longitude': 130.4018568697884}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pasta,Pizza', 'telephone': '+81-92-721-0057', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '106', 'ratingValue': '3.74'}}
+2024-12-08 01:33:31 | DEBUG    | Extracted location data - City: Watanabedori, Region: Fukuoka, Lat: 33.586340637064225, Long: 130.4018568697884
+2024-12-08 01:33:31 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:31 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:31 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:33:31 | DEBUG    | Location: Watanabedori, Fukuoka (33.586340637064225, 130.4018568697884)
+2024-12-08 01:33:31 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:33:31 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:33:32 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hokkaido/A0106/A010603/1065924/', 'name': 'Olivio', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/220734/640x640_rect_89afa2366c69869d50c384def8934f7c.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': '', 'addressRegion': 'Hokkaido', 'postalCode': '0440000', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 42.893908904180094, 'longitude': 140.6984634271848}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-136-27-1234', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '23', 'ratingValue': '3.74'}}
+2024-12-08 01:33:32 | DEBUG    | Extracted location data - City: None, Region: Hokkaido, Lat: 42.893908904180094, Long: 140.6984634271848
+2024-12-08 01:33:32 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:32 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:33:32 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:33:32 | DEBUG    | Location: None, Hokkaido (42.893908904180094, 140.6984634271848)
+2024-12-08 01:33:32 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:33:32 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:33:33 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1307/A130702/13155593/', 'name': 'SAVOY Tomato To Chese Ten', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/172830/640x640_rect_f317d85d6b220308c273052622372bce.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Azabujuban Minato Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1060045', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.65374013872356, 'longitude': 139.73527568412857}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza', 'telephone': '+81-3-3451-6699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '429', 'ratingValue': '3.73'}}
+2024-12-08 01:33:33 | DEBUG    | Extracted location data - City: Azabujuban, Region: Tokyo, Lat: 35.65374013872356, Long: 139.73527568412857
+2024-12-08 01:33:33 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:33:33 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:33 | DEBUG    | Successfully parsed restaurant: SAVOY Tomato To Chese Ten (SAVOY)
+2024-12-08 01:33:33 | DEBUG    | Location: Azabujuban, Tokyo (35.65374013872356, 139.73527568412857)
+2024-12-08 01:33:33 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:33:33 | DEBUG    | Categories: Pizza
+2024-12-08 01:33:33 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1317/A131701/13003188/', 'name': 'Seirinkan', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/25868/640x640_rect_25868561.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kamimeguro Meguro Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1530051', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6428760387189, 'longitude': 139.69903928404423}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Pasta,Italian', 'telephone': '+81-3-3714-5160', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '2130', 'ratingValue': '3.72'}}
+2024-12-08 01:33:33 | DEBUG    | Extracted location data - City: Kamimeguro, Region: Tokyo, Lat: 35.6428760387189, Long: 139.69903928404423
+2024-12-08 01:33:33 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:33:33 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:33:33 | DEBUG    | Successfully parsed restaurant: Seirinkan (聖林館)
+2024-12-08 01:33:33 | DEBUG    | Location: Kamimeguro, Tokyo (35.6428760387189, 139.69903928404423)
+2024-12-08 01:33:33 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:33:33 | DEBUG    | Categories: Pizza, Pasta, Italian
+2024-12-08 01:33:33 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kyoto/A2601/A260304/26001638/', 'name': 'IL PAPPALARDO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/12904/640x640_rect_12904983.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Myohoin Maekawacho Higashiyama-ku Kyoto Kyoto', 'addressRegion': 'Kyoto', 'postalCode': '6050932', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.989452937884344, 'longitude': 135.77534268019446}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-75-533-3330', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '289', 'ratingValue': '3.73'}}
+2024-12-08 01:33:33 | DEBUG    | Extracted location data - City: Myohoin, Region: Kyoto, Lat: 34.989452937884344, Long: 135.77534268019446
+2024-12-08 01:33:33 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:33:33 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:33:33 | DEBUG    | Successfully parsed restaurant: IL PAPPALARDO (IL PAPPALARDO)
+2024-12-08 01:33:33 | DEBUG    | Location: Myohoin, Kyoto (34.989452937884344, 135.77534268019446)
+2024-12-08 01:33:33 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:33:33 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:33:33 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:33:33 | INFO     | Found 20 restaurants, 20 new entries added
+2024-12-08 01:33:35 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:33:35 | INFO     | Scraper closed
+2024-12-08 01:37:23 | INFO     | Database initialized successfully
+2024-12-08 01:37:23 | ERROR    | An error occurred: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.
+2024-12-08 01:37:23 | INFO     | Scraper closed
+2024-12-08 01:37:36 | INFO     | Database initialized successfully
+2024-12-08 01:37:36 | ERROR    | An error occurred: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.
+2024-12-08 01:37:36 | INFO     | Scraper closed
+2024-12-08 01:37:57 | INFO     | Database initialized successfully
+2024-12-08 01:37:57 | ERROR    | An error occurred: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.
+2024-12-08 01:37:57 | INFO     | Scraper closed
+2024-12-08 01:39:20 | INFO     | Database initialized successfully
+2024-12-08 01:39:20 | INFO     | Scraper initialized successfully
+2024-12-08 01:39:20 | INFO     | Starting scrape for food: pizza, 1 pages
+2024-12-08 01:39:20 | INFO     | Starting scrape for search term: pizza
+2024-12-08 01:39:24 | DEBUG    | Found 20 restaurant URLs
+2024-12-08 01:39:25 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33015797/', 'name': '400℃ Pizza', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/231434/640x640_rect_77b439e43773aec3a1de8c8a5ff42520.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tondacho Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000816', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.669239537498434, 'longitude': 133.92493997825707}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '149', 'ratingValue': '4.27'}}
+2024-12-08 01:39:25 | DEBUG    | Extracted location data - Address: Tondacho Kita-ku Okayama Okayama Okayama 7000816, City: Tondacho, Region: Okayama, Coords: (34.669239537498434, 133.92493997825707)
+2024-12-08 01:39:25 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:39:25 | DEBUG    | Location: Tondacho, Okayama (34.669239537498434, 133.92493997825707)
+2024-12-08 01:39:25 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:25 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33015797/', 'name': '400℃ Pizza', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/231434/640x640_rect_77b439e43773aec3a1de8c8a5ff42520.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tondacho Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000816', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.669239537498434, 'longitude': 133.92493997825707}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '149', 'ratingValue': '4.27'}}
+2024-12-08 01:39:25 | DEBUG    | Extracted location data - Address: Tondacho Kita-ku Okayama Okayama Okayama 7000816, City: Tondacho, Region: Okayama, Coords: (34.669239537498434, 133.92493997825707)
+2024-12-08 01:39:25 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza (400℃ PIZZA)
+2024-12-08 01:39:25 | DEBUG    | Location: Tondacho, Okayama (34.669239537498434, 133.92493997825707)
+2024-12-08 01:39:25 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:39:25 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:25 | DEBUG    | Storing restaurant with area: okayama, city: Tondacho, region: Okayama
+2024-12-08 01:39:25 | DEBUG    | Inserting restaurant with location data: city=Tondacho, region=Okayama, lat=34.669239537498434, long=133.92493997825707
+2024-12-08 01:39:26 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1318/A131810/13000684/', 'name': 'PIZZERIA ROMANA IL PENTITO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269504/640x640_rect_189e977c7d2ee3fe3ad0e660fb6f70b1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Yoyogi Shibuya Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1510053', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.68226193467567, 'longitude': 139.69667755166375}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3320-5699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '309', 'ratingValue': '3.86'}}
+2024-12-08 01:39:26 | DEBUG    | Extracted location data - Address: Yoyogi Shibuya Tokyo Tokyo 1510053, City: Yoyogi, Region: Tokyo, Coords: (35.68226193467567, 139.69667755166375)
+2024-12-08 01:39:26 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:39:26 | DEBUG    | Successfully parsed restaurant: PIZZERIA ROMANA IL PENTITO (ピッツェリア・ロマーナ・イル・ペンティート)
+2024-12-08 01:39:26 | DEBUG    | Location: Yoyogi, Tokyo (35.68226193467567, 139.69667755166375)
+2024-12-08 01:39:26 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:39:26 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:26 | DEBUG    | Storing restaurant with area: tokyo, city: Yoyogi, region: Tokyo
+2024-12-08 01:39:26 | DEBUG    | Inserting restaurant with location data: city=Yoyogi, region=Tokyo, lat=35.68226193467567, long=139.69667755166375
+2024-12-08 01:39:26 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/miyagi/A0401/A040101/4016875/', 'name': 'IL PIZZAIOLO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/192001/640x640_rect_77d3d1bc4c6bceb0dbde2de1651a0224.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tsutsumimachi Aoba-ku Sendai Miyagi', 'addressRegion': 'Miyagi', 'postalCode': '9810912', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 38.284169637414266, 'longitude': 140.869924109903}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-22-725-3141', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '201', 'ratingValue': '3.94'}}
+2024-12-08 01:39:26 | DEBUG    | Extracted location data - Address: Tsutsumimachi Aoba-ku Sendai Miyagi Miyagi 9810912, City: Tsutsumimachi, Region: Miyagi, Coords: (38.284169637414266, 140.869924109903)
+2024-12-08 01:39:26 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:26 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:26 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:39:26 | DEBUG    | Location: Tsutsumimachi, Miyagi (38.284169637414266, 140.869924109903)
+2024-12-08 01:39:26 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:26 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:26 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/miyagi/A0401/A040101/4016875/', 'name': 'IL PIZZAIOLO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/192001/640x640_rect_77d3d1bc4c6bceb0dbde2de1651a0224.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Tsutsumimachi Aoba-ku Sendai Miyagi', 'addressRegion': 'Miyagi', 'postalCode': '9810912', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 38.284169637414266, 'longitude': 140.869924109903}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-22-725-3141', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '201', 'ratingValue': '3.94'}}
+2024-12-08 01:39:26 | DEBUG    | Extracted location data - Address: Tsutsumimachi Aoba-ku Sendai Miyagi Miyagi 9810912, City: Tsutsumimachi, Region: Miyagi, Coords: (38.284169637414266, 140.869924109903)
+2024-12-08 01:39:26 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:26 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:26 | DEBUG    | Successfully parsed restaurant: IL PIZZAIOLO (イル・ピッツァイオーロ)
+2024-12-08 01:39:26 | DEBUG    | Location: Tsutsumimachi, Miyagi (38.284169637414266, 140.869924109903)
+2024-12-08 01:39:26 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:26 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:26 | DEBUG    | Storing restaurant with area: miyagi, city: Tsutsumimachi, region: Miyagi
+2024-12-08 01:39:27 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1302/A130202/13167573/', 'name': 'THE PIZZA BAR ON 38TH', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/248894/320x320_rect_82c500908589d867c02adcd6791c77b4.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nihonbashimuromachi Chuo Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1030022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.686974038714474, 'longitude': 139.77303318443782}, 'priceRange': 'JPY 20,000～JPY 29,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-3-3270-8188', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '396', 'ratingValue': '3.89'}}
+2024-12-08 01:39:27 | DEBUG    | Extracted location data - Address: Nihonbashimuromachi Chuo Tokyo Tokyo 1030022, City: Nihonbashimuromachi, Region: Tokyo, Coords: (35.686974038714474, 139.77303318443782)
+2024-12-08 01:39:27 | DEBUG    | Found Lunch price: JPY 15,000～JPY 19,999
+2024-12-08 01:39:27 | DEBUG    | Found Dinner price: JPY 20,000～JPY 29,999
+2024-12-08 01:39:27 | DEBUG    | Successfully parsed restaurant: THE PIZZA BAR ON 38TH (ザ ピッツァバー ON 38TH)
+2024-12-08 01:39:27 | DEBUG    | Location: Nihonbashimuromachi, Tokyo (35.686974038714474, 139.77303318443782)
+2024-12-08 01:39:27 | DEBUG    | Price ranges - Lunch: JPY 15,000～JPY 19,999, Dinner: JPY 20,000～JPY 29,999
+2024-12-08 01:39:27 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:27 | DEBUG    | Storing restaurant with area: tokyo, city: Nihonbashimuromachi, region: Tokyo
+2024-12-08 01:39:27 | DEBUG    | Inserting restaurant with location data: city=Tsutsumimachi, region=Miyagi, lat=38.284169637414266, long=140.869924109903
+2024-12-08 01:39:27 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1326/A132601/13144681/', 'name': 'Don Bravo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/103069/640x640_rect_103069612.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kokuryocho Chofu Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1820022', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6482338386711, 'longitude': 139.55962218419612}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-42-482-7378', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '563', 'ratingValue': '3.86'}}
+2024-12-08 01:39:27 | DEBUG    | Extracted location data - Address: Kokuryocho Chofu Tokyo Tokyo 1820022, City: Kokuryocho, Region: Tokyo, Coords: (35.6482338386711, 139.55962218419612)
+2024-12-08 01:39:27 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:27 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:39:27 | DEBUG    | Successfully parsed restaurant: Don Bravo (ドンブラボー)
+2024-12-08 01:39:27 | DEBUG    | Location: Kokuryocho, Tokyo (35.6482338386711, 139.55962218419612)
+2024-12-08 01:39:27 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:39:27 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:27 | DEBUG    | Storing restaurant with area: tokyo, city: Kokuryocho, region: Tokyo
+2024-12-08 01:39:27 | DEBUG    | Inserting restaurant with location data: city=Nihonbashimuromachi, region=Tokyo, lat=35.686974038714474, long=139.77303318443782
+2024-12-08 01:39:27 | DEBUG    | Inserting restaurant with location data: city=Kokuryocho, region=Tokyo, lat=35.6482338386711, long=139.55962218419612
+2024-12-08 01:39:27 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kanagawa/A1401/A140303/14085676/', 'name': 'hectopascal', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/213934/640x640_rect_68db0f74f0fd806f2ffb1b32af1b825d.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Minamihonjukucho Asahi-ku Yokohama Kanagawa', 'addressRegion': 'Kanagawa', 'postalCode': '2410833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.46093423878426, 'longitude': 139.541384682317}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '261', 'ratingValue': '3.81'}}
+2024-12-08 01:39:27 | DEBUG    | Extracted location data - Address: Minamihonjukucho Asahi-ku Yokohama Kanagawa Kanagawa 2410833, City: Minamihonjukucho, Region: Kanagawa, Coords: (35.46093423878426, 139.541384682317)
+2024-12-08 01:39:27 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:27 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:39:27 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:39:27 | DEBUG    | Location: Minamihonjukucho, Kanagawa (35.46093423878426, 139.541384682317)
+2024-12-08 01:39:27 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:39:27 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:27 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kanagawa/A1401/A140303/14085676/', 'name': 'hectopascal', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/213934/640x640_rect_68db0f74f0fd806f2ffb1b32af1b825d.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Minamihonjukucho Asahi-ku Yokohama Kanagawa', 'addressRegion': 'Kanagawa', 'postalCode': '2410833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.46093423878426, 'longitude': 139.541384682317}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '261', 'ratingValue': '3.81'}}
+2024-12-08 01:39:27 | DEBUG    | Extracted location data - Address: Minamihonjukucho Asahi-ku Yokohama Kanagawa Kanagawa 2410833, City: Minamihonjukucho, Region: Kanagawa, Coords: (35.46093423878426, 139.541384682317)
+2024-12-08 01:39:27 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:27 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:39:27 | DEBUG    | Successfully parsed restaurant: hectopascal (hectopascal)
+2024-12-08 01:39:27 | DEBUG    | Location: Minamihonjukucho, Kanagawa (35.46093423878426, 139.541384682317)
+2024-12-08 01:39:27 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:39:27 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:27 | DEBUG    | Storing restaurant with area: kanagawa, city: Minamihonjukucho, region: Kanagawa
+2024-12-08 01:39:27 | DEBUG    | Inserting restaurant with location data: city=Minamihonjukucho, region=Kanagawa, lat=35.46093423878426, long=139.541384682317
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1309/A130905/13294495/', 'name': '400℃ Pizza TOKYO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/258187/640x640_rect_0aacd5f5c7f86d8697c76a95f1b6e129.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Wakamiyacho Shinjuku Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1620827', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70022773015323, 'longitude': 139.73939501011427}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Pizza', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '458', 'ratingValue': '3.79'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Wakamiyacho Shinjuku Tokyo Tokyo 1620827, City: Wakamiyacho, Region: Tokyo, Coords: (35.70022773015323, 139.73939501011427)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 4,000～JPY 4,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: 400℃ Pizza TOKYO (400℃ PIZZA)
+2024-12-08 01:39:28 | DEBUG    | Location: Wakamiyacho, Tokyo (35.70022773015323, 139.73939501011427)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 4,000～JPY 4,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Pizza
+2024-12-08 01:39:28 | DEBUG    | Storing restaurant with area: tokyo, city: Wakamiyacho, region: Tokyo
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okinawa/A4701/A470101/47003553/', 'name': 'BACAR', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/224350/640x640_rect_ac297da1b1a3e77634f6f514bd2f7dd1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kumoji Naha Okinawa', 'addressRegion': 'Okinawa', 'postalCode': '9000015', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 26.215987240879002, 'longitude': 127.68168179724776}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-98-863-5678', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '730', 'ratingValue': '3.79'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kumoji Naha Okinawa Okinawa 9000015, City: Kumoji, Region: Okinawa, Coords: (26.215987240879002, 127.68168179724776)
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:39:28 | DEBUG    | Location: Kumoji, Okinawa (26.215987240879002, 127.68168179724776)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okinawa/A4701/A470101/47003553/', 'name': 'BACAR', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/224350/640x640_rect_ac297da1b1a3e77634f6f514bd2f7dd1.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kumoji Naha Okinawa', 'addressRegion': 'Okinawa', 'postalCode': '9000015', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 26.215987240879002, 'longitude': 127.68168179724776}, 'priceRange': 'JPY 8,000～JPY 9,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-98-863-5678', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '730', 'ratingValue': '3.79'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kumoji Naha Okinawa Okinawa 9000015, City: Kumoji, Region: Okinawa, Coords: (26.215987240879002, 127.68168179724776)
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 8,000～JPY 9,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: BACAR (BACAR)
+2024-12-08 01:39:28 | DEBUG    | Location: Kumoji, Okinawa (26.215987240879002, 127.68168179724776)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: Not available, Dinner: JPY 8,000～JPY 9,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:28 | DEBUG    | Storing restaurant with area: okinawa, city: Kumoji, region: Okinawa
+2024-12-08 01:39:28 | DEBUG    | Inserting restaurant with location data: city=Wakamiyacho, region=Tokyo, lat=35.70022773015323, long=139.73939501011427
+2024-12-08 01:39:28 | DEBUG    | Inserting restaurant with location data: city=Kumoji, region=Okinawa, lat=26.215987240879002, long=127.68168179724776
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/gifu/A2101/A210101/21012908/', 'name': 'DA ACHIU', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157069/640x640_rect_157069038.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kandamachi Gifu Gifu', 'addressRegion': 'Gifu', 'postalCode': '5008833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.413615237928404, 'longitude': 136.759573383789}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-58-266-1116', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '526', 'ratingValue': '3.77'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kandamachi Gifu Gifu Gifu 5008833, City: Kandamachi, Region: Gifu, Coords: (35.413615237928404, 136.759573383789)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:39:28 | DEBUG    | Location: Kandamachi, Gifu (35.413615237928404, 136.759573383789)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/gifu/A2101/A210101/21012908/', 'name': 'DA ACHIU', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157069/640x640_rect_157069038.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kandamachi Gifu Gifu', 'addressRegion': 'Gifu', 'postalCode': '5008833', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.413615237928404, 'longitude': 136.759573383789}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-58-266-1116', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '526', 'ratingValue': '3.77'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kandamachi Gifu Gifu Gifu 5008833, City: Kandamachi, Region: Gifu, Coords: (35.413615237928404, 136.759573383789)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: DA ACHIU (ダ アチュ)
+2024-12-08 01:39:28 | DEBUG    | Location: Kandamachi, Gifu (35.413615237928404, 136.759573383789)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:39:28 | DEBUG    | Storing restaurant with area: gifu, city: Kandamachi, region: Gifu
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hyogo/A2801/A280101/28046909/', 'name': 'Bar Ciccia', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157486/640x640_rect_157486970.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kanocho Chuo-ku Kobe Hyogo', 'addressRegion': 'Hyogo', 'postalCode': '6500001', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.698773194519404, 'longitude': 135.19358459246166}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Baru (Spanish style bar),Pizza', 'telephone': '+81-78-855-5088', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '453', 'ratingValue': '3.76'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kanocho Chuo-ku Kobe Hyogo Hyogo 6500001, City: Kanocho, Region: Hyogo, Coords: (34.698773194519404, 135.19358459246166)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:39:28 | DEBUG    | Location: Kanocho, Hyogo (34.698773194519404, 135.19358459246166)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hyogo/A2801/A280101/28046909/', 'name': 'Bar Ciccia', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/157486/640x640_rect_157486970.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kanocho Chuo-ku Kobe Hyogo', 'addressRegion': 'Hyogo', 'postalCode': '6500001', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.698773194519404, 'longitude': 135.19358459246166}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Baru (Spanish style bar),Pizza', 'telephone': '+81-78-855-5088', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '453', 'ratingValue': '3.76'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Kanocho Chuo-ku Kobe Hyogo Hyogo 6500001, City: Kanocho, Region: Hyogo, Coords: (34.698773194519404, 135.19358459246166)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: Bar Ciccia (バール チッチャ)
+2024-12-08 01:39:28 | DEBUG    | Location: Kanocho, Hyogo (34.698773194519404, 135.19358459246166)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Italian, Baru (Spanish style bar), Pizza
+2024-12-08 01:39:28 | DEBUG    | Storing restaurant with area: hyogo, city: Kanocho, region: Hyogo
+2024-12-08 01:39:28 | DEBUG    | Inserting restaurant with location data: city=Kandamachi, region=Gifu, lat=35.413615237928404, long=136.759573383789
+2024-12-08 01:39:28 | DEBUG    | Inserting restaurant with location data: city=Kanocho, region=Hyogo, lat=34.698773194519404, long=135.19358459246166
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33019066/', 'name': '400℃ Mori No Machi', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/223200/640x640_rect_a9d379e1086c98eb69fc53f592b7662b.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Shimoishii Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000907', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.65800186789551, 'longitude': 133.9186410798581}, 'priceRange': 'JPY 2,000～JPY 2,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '345', 'ratingValue': '3.76'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Shimoishii Kita-ku Okayama Okayama Okayama 7000907, City: Shimoishii, Region: Okayama, Coords: (34.65800186789551, 133.9186410798581)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:28 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:39:28 | DEBUG    | Location: Shimoishii, Okayama (34.65800186789551, 133.9186410798581)
+2024-12-08 01:39:28 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:39:28 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:28 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/okayama/A3301/A330101/33019066/', 'name': '400℃ Mori No Machi', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/223200/640x640_rect_a9d379e1086c98eb69fc53f592b7662b.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Shimoishii Kita-ku Okayama Okayama', 'addressRegion': 'Okayama', 'postalCode': '7000907', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.65800186789551, 'longitude': 133.9186410798581}, 'priceRange': 'JPY 2,000～JPY 2,999', 'servesCuisine': 'Pizza,Italian', 'telephone': '+81-不明の為情報お待ちしております', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '345', 'ratingValue': '3.76'}}
+2024-12-08 01:39:28 | DEBUG    | Extracted location data - Address: Shimoishii Kita-ku Okayama Okayama Okayama 7000907, City: Shimoishii, Region: Okayama, Coords: (34.65800186789551, 133.9186410798581)
+2024-12-08 01:39:28 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:28 | DEBUG    | Found Dinner price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:29 | DEBUG    | Successfully parsed restaurant: 400℃ Mori No Machi (400℃)
+2024-12-08 01:39:29 | DEBUG    | Location: Shimoishii, Okayama (34.65800186789551, 133.9186410798581)
+2024-12-08 01:39:29 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 2,000～JPY 2,999
+2024-12-08 01:39:29 | DEBUG    | Categories: Pizza, Italian
+2024-12-08 01:39:29 | DEBUG    | Storing restaurant with area: okayama, city: Shimoishii, region: Okayama
+2024-12-08 01:39:29 | DEBUG    | Inserting restaurant with location data: city=Shimoishii, region=Okayama, lat=34.65800186789551, long=133.9186410798581
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1311/A131101/13269491/', 'name': 'Fakalo pizza gallery', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/265662/640x640_rect_3175d6fef66cd16607f849c810606c1a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kojima Taito Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1110056', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.70500193870639, 'longitude': 139.7836001846125}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Pizza', 'telephone': '+81-非公開', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '208', 'ratingValue': '3.75'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Kojima Taito Tokyo Tokyo 1110056, City: Kojima, Region: Tokyo, Coords: (35.70500193870639, 139.7836001846125)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: Fakalo pizza gallery (ファカロー ピッツァ ギャラリー)
+2024-12-08 01:39:30 | DEBUG    | Location: Kojima, Tokyo (35.70500193870639, 139.7836001846125)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 5,000～JPY 5,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Pizza
+2024-12-08 01:39:30 | DEBUG    | Storing restaurant with area: tokyo, city: Kojima, region: Tokyo
+2024-12-08 01:39:30 | DEBUG    | Inserting restaurant with location data: city=Kojima, region=Tokyo, lat=35.70500193870639, long=139.7836001846125
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukui/A1801/A180102/18000038/', 'name': 'BIRD LAND', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/200394/640x640_rect_c2fa78ed6540fe9a426f4bc27774f25a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Mikunicho Midorigaoka Sakai Fukui', 'addressRegion': 'Fukui', 'postalCode': '9130048', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.22387363722145, 'longitude': 136.1556128923967}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-776-82-5778', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '213', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Mikunicho Midorigaoka Sakai Fukui Fukui 9130048, City: Mikunicho, Region: Fukui, Coords: (36.22387363722145, 136.1556128923967)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:39:30 | DEBUG    | Location: Mikunicho, Fukui (36.22387363722145, 136.1556128923967)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukui/A1801/A180102/18000038/', 'name': 'BIRD LAND', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/200394/640x640_rect_c2fa78ed6540fe9a426f4bc27774f25a.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Mikunicho Midorigaoka Sakai Fukui', 'addressRegion': 'Fukui', 'postalCode': '9130048', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.22387363722145, 'longitude': 136.1556128923967}, 'priceRange': 'JPY 4,000～JPY 4,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-776-82-5778', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '213', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Mikunicho Midorigaoka Sakai Fukui Fukui 9130048, City: Mikunicho, Region: Fukui, Coords: (36.22387363722145, 136.1556128923967)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 4,000～JPY 4,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: BIRD LAND (バードランド)
+2024-12-08 01:39:30 | DEBUG    | Location: Mikunicho, Fukui (36.22387363722145, 136.1556128923967)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 4,000～JPY 4,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Storing restaurant with area: fukui, city: Mikunicho, region: Fukui
+2024-12-08 01:39:30 | DEBUG    | Inserting restaurant with location data: city=Mikunicho, region=Fukui, lat=36.22387363722145, long=136.1556128923967
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/nagano/A2003/A200301/20018926/', 'name': '‘A FENESTELLA', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/250011/640x640_rect_c13cb525a5bdbd9d892befb1884d2dbf.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nagakura Karuizawa Kitasaku-gun Nagano', 'addressRegion': 'Nagano', 'postalCode': '3890111', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.34192973792568, 'longitude': 138.60239319187409}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-267-31-6770', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '452', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Nagakura Karuizawa Kitasaku-gun Nagano Nagano 3890111, City: Nagakura, Region: Nagano, Coords: (36.34192973792568, 138.60239319187409)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:39:30 | DEBUG    | Location: Nagakura, Nagano (36.34192973792568, 138.60239319187409)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/nagano/A2003/A200301/20018926/', 'name': '‘A FENESTELLA', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/250011/640x640_rect_c13cb525a5bdbd9d892befb1884d2dbf.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Nagakura Karuizawa Kitasaku-gun Nagano', 'addressRegion': 'Nagano', 'postalCode': '3890111', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 36.34192973792568, 'longitude': 138.60239319187409}, 'priceRange': 'JPY 10,000～JPY 14,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-267-31-6770', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '452', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Nagakura Karuizawa Kitasaku-gun Nagano Nagano 3890111, City: Nagakura, Region: Nagano, Coords: (36.34192973792568, 138.60239319187409)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 10,000～JPY 14,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: ‘A FENESTELLA (ア フェネステッラ)
+2024-12-08 01:39:30 | DEBUG    | Location: Nagakura, Nagano (36.34192973792568, 138.60239319187409)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 10,000～JPY 14,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Storing restaurant with area: nagano, city: Nagakura, region: Nagano
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hiroshima/A3401/A340118/34013074/', 'name': 'TRATTORIA-PIZZERIA polipo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269035/640x640_rect_82025be8d0b7ee87f39aef10ba0b1aca.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Higashihakushimacho Naka-ku Hiroshima Hiroshima', 'addressRegion': 'Hiroshima', 'postalCode': '7300004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.40275653720299, 'longitude': 132.46578827658823}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-82-221-0331', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '274', 'ratingValue': '3.75'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Higashihakushimacho Naka-ku Hiroshima Hiroshima Hiroshima 7300004, City: Higashihakushimacho, Region: Hiroshima, Coords: (34.40275653720299, 132.46578827658823)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:39:30 | DEBUG    | Location: Higashihakushimacho, Hiroshima (34.40275653720299, 132.46578827658823)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hiroshima/A3401/A340118/34013074/', 'name': 'TRATTORIA-PIZZERIA polipo', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/269035/640x640_rect_82025be8d0b7ee87f39aef10ba0b1aca.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Higashihakushimacho Naka-ku Hiroshima Hiroshima', 'addressRegion': 'Hiroshima', 'postalCode': '7300004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.40275653720299, 'longitude': 132.46578827658823}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza', 'telephone': '+81-82-221-0331', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '274', 'ratingValue': '3.75'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Higashihakushimacho Naka-ku Hiroshima Hiroshima Hiroshima 7300004, City: Higashihakushimacho, Region: Hiroshima, Coords: (34.40275653720299, 132.46578827658823)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: TRATTORIA-PIZZERIA polipo (トラットリア ピッツェリア polipo)
+2024-12-08 01:39:30 | DEBUG    | Location: Higashihakushimacho, Hiroshima (34.40275653720299, 132.46578827658823)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pizza
+2024-12-08 01:39:30 | DEBUG    | Storing restaurant with area: hiroshima, city: Higashihakushimacho, region: Hiroshima
+2024-12-08 01:39:30 | DEBUG    | Inserting restaurant with location data: city=Nagakura, region=Nagano, lat=36.34192973792568, long=138.60239319187409
+2024-12-08 01:39:30 | DEBUG    | Inserting restaurant with location data: city=Higashihakushimacho, region=Hiroshima, lat=34.40275653720299, long=132.46578827658823
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukuoka/A4001/A400103/40000304/', 'name': 'Verona', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/268806/640x640_rect_a7354e58363866b8934be00e37fbc4cb.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Watanabedori Chuo-ku Fukuoka Fukuoka', 'addressRegion': 'Fukuoka', 'postalCode': '8100004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 33.586340637064225, 'longitude': 130.4018568697884}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pasta,Pizza', 'telephone': '+81-92-721-0057', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '106', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Watanabedori Chuo-ku Fukuoka Fukuoka Fukuoka 8100004, City: Watanabedori, Region: Fukuoka, Coords: (33.586340637064225, 130.4018568697884)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:39:30 | DEBUG    | Location: Watanabedori, Fukuoka (33.586340637064225, 130.4018568697884)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:39:30 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/fukuoka/A4001/A400103/40000304/', 'name': 'Verona', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/268806/640x640_rect_a7354e58363866b8934be00e37fbc4cb.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Watanabedori Chuo-ku Fukuoka Fukuoka', 'addressRegion': 'Fukuoka', 'postalCode': '8100004', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 33.586340637064225, 'longitude': 130.4018568697884}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Italian,Pasta,Pizza', 'telephone': '+81-92-721-0057', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '106', 'ratingValue': '3.74'}}
+2024-12-08 01:39:30 | DEBUG    | Extracted location data - Address: Watanabedori Chuo-ku Fukuoka Fukuoka Fukuoka 8100004, City: Watanabedori, Region: Fukuoka, Coords: (33.586340637064225, 130.4018568697884)
+2024-12-08 01:39:30 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:30 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Successfully parsed restaurant: Verona (ヴェローナ)
+2024-12-08 01:39:30 | DEBUG    | Location: Watanabedori, Fukuoka (33.586340637064225, 130.4018568697884)
+2024-12-08 01:39:30 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:30 | DEBUG    | Categories: Italian, Pasta, Pizza
+2024-12-08 01:39:30 | DEBUG    | Storing restaurant with area: fukuoka, city: Watanabedori, region: Fukuoka
+2024-12-08 01:39:30 | DEBUG    | Inserting restaurant with location data: city=Watanabedori, region=Fukuoka, lat=33.586340637064225, long=130.4018568697884
+2024-12-08 01:39:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hokkaido/A0106/A010603/1065924/', 'name': 'Olivio', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/220734/640x640_rect_89afa2366c69869d50c384def8934f7c.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': '', 'addressRegion': 'Hokkaido', 'postalCode': '0440000', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 42.893908904180094, 'longitude': 140.6984634271848}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-136-27-1234', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '23', 'ratingValue': '3.74'}}
+2024-12-08 01:39:31 | DEBUG    | Extracted location data - Address: Hokkaido 0440000, City: None, Region: Hokkaido, Coords: (42.893908904180094, 140.6984634271848)
+2024-12-08 01:39:31 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:31 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:39:31 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:39:31 | DEBUG    | Location: None, Hokkaido (42.893908904180094, 140.6984634271848)
+2024-12-08 01:39:31 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:39:31 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:39:31 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/hokkaido/A0106/A010603/1065924/', 'name': 'Olivio', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/220734/640x640_rect_89afa2366c69869d50c384def8934f7c.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': '', 'addressRegion': 'Hokkaido', 'postalCode': '0440000', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 42.893908904180094, 'longitude': 140.6984634271848}, 'priceRange': 'JPY 6,000～JPY 7,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-136-27-1234', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '23', 'ratingValue': '3.74'}}
+2024-12-08 01:39:31 | DEBUG    | Extracted location data - Address: Hokkaido 0440000, City: None, Region: Hokkaido, Coords: (42.893908904180094, 140.6984634271848)
+2024-12-08 01:39:31 | DEBUG    | Found Lunch price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:31 | DEBUG    | Found Dinner price: JPY 6,000～JPY 7,999
+2024-12-08 01:39:31 | DEBUG    | Successfully parsed restaurant: Olivio (オリヴィオ)
+2024-12-08 01:39:31 | DEBUG    | Location: None, Hokkaido (42.893908904180094, 140.6984634271848)
+2024-12-08 01:39:31 | DEBUG    | Price ranges - Lunch: JPY 3,000～JPY 3,999, Dinner: JPY 6,000～JPY 7,999
+2024-12-08 01:39:31 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:39:31 | DEBUG    | Storing restaurant with area: hokkaido, city: None, region: Hokkaido
+2024-12-08 01:39:31 | DEBUG    | Inserting restaurant with location data: city=None, region=Hokkaido, lat=42.893908904180094, long=140.6984634271848
+2024-12-08 01:39:32 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1307/A130702/13155593/', 'name': 'SAVOY Tomato To Chese Ten', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/172830/640x640_rect_f317d85d6b220308c273052622372bce.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Azabujuban Minato Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1060045', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.65374013872356, 'longitude': 139.73527568412857}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza', 'telephone': '+81-3-3451-6699', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '429', 'ratingValue': '3.73'}}
+2024-12-08 01:39:32 | DEBUG    | Extracted location data - Address: Azabujuban Minato Tokyo Tokyo 1060045, City: Azabujuban, Region: Tokyo, Coords: (35.65374013872356, 139.73527568412857)
+2024-12-08 01:39:32 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:32 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:32 | DEBUG    | Successfully parsed restaurant: SAVOY Tomato To Chese Ten (SAVOY)
+2024-12-08 01:39:32 | DEBUG    | Location: Azabujuban, Tokyo (35.65374013872356, 139.73527568412857)
+2024-12-08 01:39:32 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:32 | DEBUG    | Categories: Pizza
+2024-12-08 01:39:32 | DEBUG    | Storing restaurant with area: tokyo, city: Azabujuban, region: Tokyo
+2024-12-08 01:39:32 | DEBUG    | Inserting restaurant with location data: city=Azabujuban, region=Tokyo, lat=35.65374013872356, long=139.73527568412857
+2024-12-08 01:39:32 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/kyoto/A2601/A260304/26001638/', 'name': 'IL PAPPALARDO', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/12904/640x640_rect_12904983.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Myohoin Maekawacho Higashiyama-ku Kyoto Kyoto', 'addressRegion': 'Kyoto', 'postalCode': '6050932', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 34.989452937884344, 'longitude': 135.77534268019446}, 'priceRange': 'JPY 5,000～JPY 5,999', 'servesCuisine': 'Italian,Pizza,Pasta', 'telephone': '+81-75-533-3330', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '289', 'ratingValue': '3.73'}}
+2024-12-08 01:39:32 | DEBUG    | Extracted location data - Address: Myohoin Maekawacho Higashiyama-ku Kyoto Kyoto Kyoto 6050932, City: Myohoin, Region: Kyoto, Coords: (34.989452937884344, 135.77534268019446)
+2024-12-08 01:39:32 | DEBUG    | Found Lunch price: JPY 1,000～JPY 1,999
+2024-12-08 01:39:32 | DEBUG    | Found Dinner price: JPY 5,000～JPY 5,999
+2024-12-08 01:39:32 | DEBUG    | Successfully parsed restaurant: IL PAPPALARDO (IL PAPPALARDO)
+2024-12-08 01:39:32 | DEBUG    | Location: Myohoin, Kyoto (34.989452937884344, 135.77534268019446)
+2024-12-08 01:39:32 | DEBUG    | Price ranges - Lunch: JPY 1,000～JPY 1,999, Dinner: JPY 5,000～JPY 5,999
+2024-12-08 01:39:32 | DEBUG    | Categories: Italian, Pizza, Pasta
+2024-12-08 01:39:32 | DEBUG    | Storing restaurant with area: kyoto, city: Myohoin, region: Kyoto
+2024-12-08 01:39:32 | DEBUG    | Found JSON-LD data: {'@context': 'http://schema.org', '@type': 'Restaurant', '@id': 'https://tabelog.com/en/tokyo/A1317/A131701/13003188/', 'name': 'Seirinkan', 'image': 'https://tblg.k-img.com/restaurant/images/Rvw/25868/640x640_rect_25868561.jpg', 'address': {'@type': 'PostalAddress', 'streetAddress': '', 'addressLocality': 'Kamimeguro Meguro Tokyo', 'addressRegion': 'Tokyo', 'postalCode': '1530051', 'addressCountry': 'JP'}, 'geo': {'@type': 'GeoCoordinates', 'latitude': 35.6428760387189, 'longitude': 139.69903928404423}, 'priceRange': 'JPY 3,000～JPY 3,999', 'servesCuisine': 'Pizza,Pasta,Italian', 'telephone': '+81-3-3714-5160', 'aggregateRating': {'@type': 'AggregateRating', 'ratingCount': '2130', 'ratingValue': '3.72'}}
+2024-12-08 01:39:32 | DEBUG    | Extracted location data - Address: Kamimeguro Meguro Tokyo Tokyo 1530051, City: Kamimeguro, Region: Tokyo, Coords: (35.6428760387189, 139.69903928404423)
+2024-12-08 01:39:32 | DEBUG    | Found Lunch price: JPY 2,000～JPY 2,999
+2024-12-08 01:39:32 | DEBUG    | Found Dinner price: JPY 3,000～JPY 3,999
+2024-12-08 01:39:32 | DEBUG    | Successfully parsed restaurant: Seirinkan (聖林館)
+2024-12-08 01:39:32 | DEBUG    | Location: Kamimeguro, Tokyo (35.6428760387189, 139.69903928404423)
+2024-12-08 01:39:32 | DEBUG    | Price ranges - Lunch: JPY 2,000～JPY 2,999, Dinner: JPY 3,000～JPY 3,999
+2024-12-08 01:39:32 | DEBUG    | Categories: Pizza, Pasta, Italian
+2024-12-08 01:39:32 | DEBUG    | Storing restaurant with area: tokyo, city: Kamimeguro, region: Tokyo
+2024-12-08 01:39:32 | DEBUG    | Inserting restaurant with location data: city=Myohoin, region=Kyoto, lat=34.989452937884344, long=135.77534268019446
+2024-12-08 01:39:32 | DEBUG    | Inserting restaurant with location data: city=Kamimeguro, region=Tokyo, lat=35.6428760387189, long=139.69903928404423
+2024-12-08 01:39:32 | INFO     | Processed 20 restaurants from page 1
+2024-12-08 01:39:32 | INFO     | Found 20 restaurants, 20 new entries added
+2024-12-08 01:39:33 | INFO     | Scraping completed. Total restaurants in database: 20
+2024-12-08 01:39:33 | INFO     | Scraper closed
